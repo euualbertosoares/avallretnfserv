@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-30T19:03:01.356707100Z</date>
+  <millis>1664564581356</millis>
+  <nanos>707100</nanos>
+  <sequence>0</sequence>
+  <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
+  <level>INFO</level>
+  <class>avvall.agente.rfc.connector.ConnectorRfc</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Iniciando Consulta, Recuperando Registros em getServNf...</message>
+</record>
+<record>
+  <date>2022-09-30T19:03:02.826773300Z</date>
+  <millis>1664564582826</millis>
+  <nanos>773300</nanos>
+  <sequence>1</sequence>
+  <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
+  <level>INFO</level>
+  <class>avvall.agente.rfc.connector.ConnectorRfc</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Retornou 9 registros...</message>
+</record>
+<record>
+  <date>2022-09-30T19:03:02.831760Z</date>
+  <millis>1664564582831</millis>
+  <nanos>760000</nanos>
+  <sequence>2</sequence>
+  <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
+  <level>INFO</level>
+  <class>avvall.agente.rfc.connector.ConnectorRfc</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Montando propriedades de conection com SAP JCo em JCoDestinationManager.getDestination('ABAP_AS')...</message>
+</record>
+<record>
+  <date>2022-09-30T19:03:02.832757500Z</date>
+  <millis>1664564582832</millis>
+  <nanos>757500</nanos>
+  <sequence>3</sequence>
+  <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
+  <level>INFO</level>
+  <class>avvall.agente.rfc.connector.ConnectorRfc</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Criando arquivo ABAP_AS.jcoDestination...</message>
+</record>
+<record>
+  <date>2022-09-30T19:03:02.845721700Z</date>
+  <millis>1664564582845</millis>
+  <nanos>721700</nanos>
+  <sequence>4</sequence>
+  <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
+  <level>INFO</level>
+  <class>avvall.agente.rfc.connector.ConnectorRfc</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Conectando destination via ABAP_AS.jcoDestination...</message>
+</record>
