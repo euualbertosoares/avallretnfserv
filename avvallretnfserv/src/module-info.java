@@ -1,4 +1,4 @@
-module sapconector {
+module avvallretnfserv {
 	requires java.net.http;
 	requires java.logging;
 	requires com.google.gson;

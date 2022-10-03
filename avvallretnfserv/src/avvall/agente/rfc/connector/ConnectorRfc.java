@@ -258,9 +258,11 @@ public class ConnectorRfc {
 	    	        function.getImportParameterList().setValue("I_NFENUM", item.i_nfenum);
 	            	LOGGER.log(Level.INFO, "setValue - I_SERIES: " + item.i_series);
 	    	        function.getImportParameterList().setValue("I_SERIES", item.i_series);
+	            	LOGGER.log(Level.INFO, "Enviando via RFC: " + item.i_docnum + ", " + item.i_nfenum + ", " + item.i_series + ".");
 		            function.execute(destination);
-		            System.out.println(function.getExportParameterList().getString("E_DOCNUM"));
-				} 
+	            	LOGGER.log(Level.INFO, "Retorno: " + function.getExportParameterList().getString("E_MENSAG"));
+		            System.out.println(function.getExportParameterList().getString("E_MENSAG"));
+				}
 	        } catch (JCoException e) {
                 System.out.println("Ocorreu erro ao tentar executar a function Z_RFC_NF_SERVICO_ATU_REF. ");
                 e.printStackTrace();
