@@ -7,7 +7,9 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
@@ -195,7 +197,8 @@ public class ConnectorRfc {
 
     public static void main(String[] args) throws IOException, InterruptedException, JCoException {
 
-    	FileHandler arquivoLogHandler = new FileHandler ( "avvallretnfserv.log");
+    	String nomeArquivoLog = "" + new SimpleDateFormat("YYYYMMDD_HHmmss").format(new Date()) + ".log";
+    	FileHandler arquivoLogHandler = new FileHandler (nomeArquivoLog);
     	LOGGER.addHandler(arquivoLogHandler);
     	LOGGER.log(Level.INFO, "Iniciando Consulta, Recuperando Registros em getServNf...");
     	RetornoGetServNfApi result = getServNf();
@@ -215,7 +218,7 @@ public class ConnectorRfc {
         try {
         	connSap = createJcoClient();
             // This will create a file called mySAPSystem.jcoDestination
-            String DESTINATION_NAME = "ABAP_AS";
+            String DESTINATION_NAME = "SAPConn";
         	LOGGER.log(Level.INFO, "Montando propriedades de conection com SAP JCo em JCoDestinationManager.getDestination('" + DESTINATION_NAME + "')...");
             connectProperties = new Properties();
             connectProperties.setProperty(DestinationDataProvider.JCO_ASHOST,   connSap.getAshost());
@@ -230,10 +233,10 @@ public class ConnectorRfc {
 
             LOGGER.log(Level.INFO, "Conectando destination via " + DESTINATION_NAME + ".jcoDestination...");
             destination = JCoDestinationManager.getDestination(DESTINATION_NAME);
-            LOGGER.log(Level.INFO, "Atributos: " + destination.getAttributes());
+            // LOGGER.log(Level.INFO, "Atributos: " + destination.getAttributes());
 
-            LOGGER.log(Level.INFO, "Executando destination.ping()...");
-            destination.ping();
+            // LOGGER.log(Level.INFO, "Executando destination.ping()...");
+            // destination.ping();
 
         } catch (JCoException ex) {
         	LOGGER.log(Level.INFO, "exception "+ex.toString());
@@ -250,18 +253,12 @@ public class ConnectorRfc {
 	            function = destination.getRepository().getFunction("Z_RFC_NF_SERVICO_ATU_REF");
 
 	            for (GetServNfApi item : result.getItems()) {
-					System.out.println("Enviar via RFC: " + item.i_docnum + ", " + item.i_nfenum + ", " + item.i_series + ".");
-	            	LOGGER.log(Level.INFO, "Enviar para SAP ECC via RFC: " + item.i_docnum + ", " + item.i_nfenum + ", " + item.i_series + ".");
-	            	LOGGER.log(Level.INFO, "setValue - I_DOCNUM: " + item.i_docnum);
 	    	        function.getImportParameterList().setValue("I_DOCNUM", item.i_docnum);
-	            	LOGGER.log(Level.INFO, "setValue - I_NFENUM: " + item.i_nfenum);
 	    	        function.getImportParameterList().setValue("I_NFENUM", item.i_nfenum);
-	            	LOGGER.log(Level.INFO, "setValue - I_SERIES: " + item.i_series);
 	    	        function.getImportParameterList().setValue("I_SERIES", item.i_series);
-	            	LOGGER.log(Level.INFO, "Enviando via RFC: " + item.i_docnum + ", " + item.i_nfenum + ", " + item.i_series + ".");
+	            	LOGGER.log(Level.INFO, "Executando Z_RFC_NF_SERVICO_ATU_REF com I_DOCNUM: " + item.i_docnum + ", I_NFENUM: " + item.i_nfenum + ", I_SERIES: " + item.i_series + ".");
 		            function.execute(destination);
 	            	LOGGER.log(Level.INFO, "Retorno: " + function.getExportParameterList().getString("E_MENSAG"));
-		            System.out.println(function.getExportParameterList().getString("E_MENSAG"));
 				}
 	        } catch (JCoException e) {
                 System.out.println("Ocorreu erro ao tentar executar a function Z_RFC_NF_SERVICO_ATU_REF. ");
