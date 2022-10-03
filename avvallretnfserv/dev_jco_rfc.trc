@@ -121,3 +121,208 @@ COUNTER     4
     return code: RFC_FAILURE (1)
     error group: 102
     key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221003 093128 Brasilia Standard Time Rel. 3.0.14 (2015-12-16) [721.619]
+Error:  >Mon Oct 03 09:31:28,004<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:31:27 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'r3rq1ms.nalco.one.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Error:  >Mon Oct 03 09:31:28,008<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:31:28 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      nixxhl.cpp
+LINE        193
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221003 093421 Brasilia Standard Time Rel. 3.0.14 (2015-12-16) [721.619]
+Error:  >Mon Oct 03 09:34:21,350<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:34:21 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'r3rq1ms.nalco.one.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Error:  >Mon Oct 03 09:34:21,355<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:34:21 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      nixxhl.cpp
+LINE        193
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221003 093612 Brasilia Standard Time Rel. 3.0.14 (2015-12-16) [721.619]
+Error:  >Mon Oct 03 09:36:12,421<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:36:12 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'r3rq1ms.nalco.one.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Error:  >Mon Oct 03 09:36:12,426<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 09:36:12 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      nixxhl.cpp
+LINE        193
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221003 101048 Brasilia Standard Time Rel. 3.0.14 (2015-12-16) [721.619]
+Error:  >Mon Oct 03 10:10:48,422<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 10:10:48 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'r3rq1ms.nalco.one.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Error:  >Mon Oct 03 10:10:48,427<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 10:10:48 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      nixxhl.cpp
+LINE        193
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+
+**** Error file opened at 20221003 103700 Brasilia Standard Time Rel. 3.0.14 (2015-12-16) [721.619]
+Error:  >Mon Oct 03 10:37:00,212<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 10:37:00 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: 'r3rq1ms.nalco.one.net' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION
+Error:  >Mon Oct 03 10:37:00,220<    RfcException:
+    message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
+TIME        Mon Oct 03 10:37:00 2022
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      nixxhl.cpp
+LINE        193
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     4
+
+    return code: RFC_FAILURE (1)
+    error group: 102
+    key: RFC_ERROR_COMMUNICATION

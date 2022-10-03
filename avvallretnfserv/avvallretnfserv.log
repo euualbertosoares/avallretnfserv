@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-10-03T12:21:33.431607300Z</date>
-  <millis>1664799693431</millis>
-  <nanos>607300</nanos>
+  <date>2022-10-03T13:36:58.666923500Z</date>
+  <millis>1664804218666</millis>
+  <nanos>923500</nanos>
   <sequence>0</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>Iniciando Consulta, Recuperando Registros em getServNf...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:34.747616200Z</date>
-  <millis>1664799694747</millis>
-  <nanos>616200</nanos>
+  <date>2022-10-03T13:36:59.948923700Z</date>
+  <millis>1664804219948</millis>
+  <nanos>923700</nanos>
   <sequence>1</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>Retornou 9 registros...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:34.749611500Z</date>
-  <millis>1664799694749</millis>
-  <nanos>611500</nanos>
+  <date>2022-10-03T13:36:59.949921200Z</date>
+  <millis>1664804219949</millis>
+  <nanos>921200</nanos>
   <sequence>2</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -38,9 +38,9 @@
   <message>Montando propriedades de conection com SAP JCo em JCoDestinationManager.getDestination('ABAP_AS')...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:34.750608700Z</date>
-  <millis>1664799694750</millis>
-  <nanos>608700</nanos>
+  <date>2022-10-03T13:36:59.950919300Z</date>
+  <millis>1664804219950</millis>
+  <nanos>919300</nanos>
   <sequence>3</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -50,9 +50,9 @@
   <message>Criando arquivo ABAP_AS.jcoDestination...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:34.766585Z</date>
-  <millis>1664799694766</millis>
-  <nanos>585000</nanos>
+  <date>2022-10-03T13:36:59.966875600Z</date>
+  <millis>1664804219966</millis>
+  <nanos>875600</nanos>
   <sequence>4</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>Conectando destination via ABAP_AS.jcoDestination...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:35.000940Z</date>
-  <millis>1664799695000</millis>
-  <nanos>940000</nanos>
+  <date>2022-10-03T13:37:00.216717100Z</date>
+  <millis>1664804220216</millis>
+  <nanos>717100</nanos>
   <sequence>5</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -76,7 +76,7 @@ Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65
 
 LOCATION    CPIC (TCP/IP) on local host with Unicode
 ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
-TIME        Mon Oct 03 09:21:34 2022
+TIME        Mon Oct 03 10:37:00 2022
 RELEASE     721
 COMPONENT   NI (network interface)
 VERSION     40
@@ -89,9 +89,9 @@ COUNTER     2
 </message>
 </record>
 <record>
-  <date>2022-10-03T12:21:35.001937800Z</date>
-  <millis>1664799695001</millis>
-  <nanos>937800</nanos>
+  <date>2022-10-03T13:37:00.218712600Z</date>
+  <millis>1664804220218</millis>
+  <nanos>712600</nanos>
   <sequence>6</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>INFO</level>
@@ -101,9 +101,9 @@ COUNTER     2
   <message>Instanciando function Z_RFC_NF_SERVICO_ATU_REF...</message>
 </record>
 <record>
-  <date>2022-10-03T12:21:35.004930Z</date>
-  <millis>1664799695004</millis>
-  <nanos>930000</nanos>
+  <date>2022-10-03T13:37:00.222702500Z</date>
+  <millis>1664804220222</millis>
+  <nanos>702500</nanos>
   <sequence>7</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>SEVERE</level>
@@ -115,7 +115,7 @@ Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65
 
 LOCATION    CPIC (TCP/IP) on local host with Unicode
 ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
-TIME        Mon Oct 03 09:21:35 2022
+TIME        Mon Oct 03 10:37:00 2022
 RELEASE     721
 COMPONENT   NI (network interface)
 VERSION     40
@@ -127,9 +127,9 @@ COUNTER     4
 </message>
 </record>
 <record>
-  <date>2022-10-03T12:21:35.005927200Z</date>
-  <millis>1664799695005</millis>
-  <nanos>927200</nanos>
+  <date>2022-10-03T13:37:00.222702500Z</date>
+  <millis>1664804220222</millis>
+  <nanos>702500</nanos>
   <sequence>8</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>SEVERE</level>
@@ -141,7 +141,7 @@ Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65
 
 LOCATION    CPIC (TCP/IP) on local host with Unicode
 ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
-TIME        Mon Oct 03 09:21:35 2022
+TIME        Mon Oct 03 10:37:00 2022
 RELEASE     721
 COMPONENT   NI (network interface)
 VERSION     40
@@ -153,9 +153,9 @@ COUNTER     4
 </message>
 </record>
 <record>
-  <date>2022-10-03T12:21:35.006924800Z</date>
-  <millis>1664799695006</millis>
-  <nanos>924800</nanos>
+  <date>2022-10-03T13:37:00.223698900Z</date>
+  <millis>1664804220223</millis>
+  <nanos>698900</nanos>
   <sequence>9</sequence>
   <logger>avvall.agente.rfc.connector.ConnectorRfc</logger>
   <level>SEVERE</level>
@@ -167,7 +167,7 @@ Connection parameters: TYPE=A DEST=ABAP_AS ASHOST=r3rq1ms.nalco.one.net SYSNR=65
 
 LOCATION    CPIC (TCP/IP) on local host with Unicode
 ERROR       hostname 'r3rq1ms.nalco.one.net' unknown
-TIME        Mon Oct 03 09:21:35 2022
+TIME        Mon Oct 03 10:37:00 2022
 RELEASE     721
 COMPONENT   NI (network interface)
 VERSION     40
