@@ -219,7 +219,7 @@ public class ConnectorRfc {
         	connSap = createJcoClient();
             // This will create a file called mySAPSystem.jcoDestination
             String DESTINATION_NAME = "SAPConn";
-        	LOGGER.log(Level.INFO, "Montando propriedades de conection com SAP JCo em JCoDestinationManager.getDestination('" + DESTINATION_NAME + "')...");
+        	LOGGER.log(Level.INFO, connSap.getAshost() + " - Montando propriedades de conection com SAP JCo em JCoDestinationManager.getDestination('" + DESTINATION_NAME + "')...");
             connectProperties = new Properties();
             connectProperties.setProperty(DestinationDataProvider.JCO_ASHOST,   connSap.getAshost());
             connectProperties.setProperty(DestinationDataProvider.JCO_SYSNR,    connSap.getSysnr());
