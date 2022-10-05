@@ -1,0 +1,2088 @@
+Manifest-Version: 1.0
+Class-Path: ./ sapjoc3.jar
+Main-Class: avvall.agente.rfc.connector.ConnectorRfc
+
+Name: sapjco3/com/sap/tc/logging/Version.class
+SHA1-Digest: Z/WVLyrpT4jWxUtfVIR9bXU5rB8=
+
+Name: sapjco3/com/sap/conn/jco/util/Jarm.class
+SHA1-Digest: bZv2Mec8IL1FYaO+wfVw7xDG2Eg=
+
+Name: sapjco3/com/sap/tc/logging/FormatterType.class
+SHA1-Digest: gm15TvRUHSSm6OkV5ux/D/ibMSw=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$FormatterRefVal.class
+SHA1-Digest: 4uw6SqvWz3gIAAZMbWN/1eiFYPs=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapFunctionUnit.class
+SHA1-Digest: 8H//jlrMJX49xbPmNy5di0cbhwM=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager$DispatcherWorker.class
+SHA1-Digest: vKVq4xrbCA6q7uSEkd9JwLlv5MM=
+
+Name: sapjco3/com/sap/tc/logging/Location.class
+SHA1-Digest: ubEQWheGT4lc+9Xz1qEpfma9D6A=
+
+Name: sapjco3/com/sap/i18n/decfloat/DecFloatType.class
+SHA1-Digest: 6/ap3D+7ypznaL2NfT9J79zQmo8=
+
+Name: sapjco3/com/sap/tc/logging/EventDispatcher.class
+SHA1-Digest: M3pRpPIMs/zcKv7Lf0nE6XpntbQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$RequestDispatcher.class
+SHA1-Digest: zBVBJ1zGTS2gs1crQk4/47sKYz8=
+
+Name: sapjco3/com/sap/tc/logging/perf/Version.class
+SHA1-Digest: UEEdFVhs+ntTmBIf0qlovJDByZg=
+
+Name: sapjco3/com/sap/conn/jco/JCoParameterList.class
+SHA1-Digest: eyP8sEUhBv19g3SzXqPN/nxVSBI=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/DataException.class
+SHA1-Digest: C+N0P/ByoBZaw88sdPPuQRZTk7o=
+
+Name: sapjco3/com/sap/conn/jco/rt/RepositoryCacheProxy.class
+SHA1-Digest: kHrM9CNx7O81d76pwljJoUobt2A=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRequest.class
+SHA1-Digest: XO9hoWNgaHjCqTyy4RHSLT9QNkE=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$1.class
+SHA1-Digest: UxqwKyDWbnaGgvBjjs1rs0Ldf+M=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUc2BE.class
+SHA1-Digest: l9tgPbVfKcB+yqcGz6ZMdiUfYLY=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonFunctionTemplateReader$Direction.cl
+ ass
+SHA1-Digest: +c0OSHOEIQCJyDYZxW0VfwrWSKE=
+
+Name: sapjco3/com/sap/tc/logging/reader/FileReadFilter.class
+SHA1-Digest: 0a4xepWJv3/WrfgDuimCe9/LVQI=
+
+Name: sapjco3/com/sap/tc/logging/perf/ISatRecord.class
+SHA1-Digest: wbPgHccPXcHQ8Uyxch8MW2ma340=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetData_Input.class
+SHA1-Digest: onwBhKc/YnMrVL6nN58uqwedjls=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractConnection.class
+SHA1-Digest: 0H4JiviZ+dgSOsDjNi6APsH+FmM=
+
+Name: sapjco3/com/sap/conn/jco/ext/ServerPassportManager.class
+SHA1-Digest: z+PeDOtznz2mzL6AMh0XyOnxqY0=
+
+Name: sapjco3/com/sap/conn/jco/server/DefaultServerHandlerFactory.class
+SHA1-Digest: 4eDvinvSytQLaEFNjr+eQFuPUhk=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRemoteContext$StackEntry.class
+SHA1-Digest: ZArwOeWp6Ec7UXG7HHgCgHPtCaE=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSystemCpToC.class
+SHA1-Digest: R6hcvMUOAJr4aumSmCB/18i3I6k=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapClassExceptionInfo.class
+SHA1-Digest: 7hcuavY2U9LWcoREt222JjUAxos=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultStructure.class
+SHA1-Digest: ERmsb45vQUDFmrif/SlsJp/LkP8=
+
+Name: sapjco3/com/sap/conn/jco/rt/DestinationBack.class
+SHA1-Digest: U/SNYzLgZyJUvGtx9PuG8JpAGEI=
+
+Name: sapjco3/com/sap/conn/rfc/engine/GUID$Factory.class
+SHA1-Digest: pX6c5TY6zFC5SP6xVjXiKPXvv3Y=
+
+Name: sapjco3/com/sap/conn/jco/support/SimpleDataProviderImpl.class
+SHA1-Digest: H6knAl+q2rj6cdDWuaHeUIG+G1k=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcCall.class
+SHA1-Digest: IvAunjoa2Zy8Sup97a0+0YMioWE=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware.class
+SHA1-Digest: 4jf+Ck5/Apgcjlrv7Hk1e7QE8gU=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog$Picture.class
+SHA1-Digest: SlBXxIVXnX/vEenKLBAZVylIlVg=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcRegisterInfo.class
+SHA1-Digest: oMtqMW9LQAfmfP76YH3VKD4yorI=
+
+Name: sapjco3/com/sap/conn/jco/JCoCustomDestination$SncConfigurationData.class
+SHA1-Digest: Whvik8MC4yB7Rn0lPJjrc3UEOb8=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcDocu.class
+SHA1-Digest: Y208G2B91dqIWBza1YYyHMGoNfo=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$PCTokenType.class
+SHA1-Digest: 4eqyH+yWk4rc0oDAgq2XVeDbBXM=
+
+Name: sapjco3/com/sap/conn/jco/rt/MetaDataStorage$StoreKeeperLockingStorage$He
+ lper.class
+SHA1-Digest: W32rtpGtTyrcSfKofVU9Z9Sp8sk=
+
+Name: sapjco3/com/sap/tc/logging/MessageEvent.class
+SHA1-Digest: ZKowyq6MX9D5cVrSQfchVt+fEXM=
+
+Name: sapjco3/com/sap/conn/jco/util/I18NConverters.class
+SHA1-Digest: 1+6FktkDF3N5MnbUWCF9A8SDy6o=
+
+Name: sapjco3/com/sap/conn/jco/JCoClassMetaData.class
+SHA1-Digest: Rs41Nl5ALfye7XkIfyzauN42x5g=
+
+Name: sapjco3/com/sap/conn/jco/rt/Trace.class
+SHA1-Digest: g/b+mb+VFlpMqBWvmZ6uObG+mkM=
+
+Name: sapjco3/com/sap/tc/logging/Token.class
+SHA1-Digest: mKzMHjHzT9aDk53h3rnKcJrensI=
+
+Name: sapjco3/com/sap/tc/logging/ListFormatter.class
+SHA1-Digest: cgV0IHy/GD5AVXEBvOed6N8wauY=
+
+Name: sapjco3/com/sap/i18n/decfloat/DecFloat.class
+SHA1-Digest: MCAJDFIP8+vx8czHjL6no7TGHkc=
+
+Name: sapjco3/com/sap/conn/jco/JCoRecordMetaData.class
+SHA1-Digest: HgMmYrdQmrmH9V2i+9OpA5OkHFE=
+
+Name: sapjco3/com/sap/conn/jco/rt/SessionTimeoutChecker.class
+SHA1-Digest: bBr0V8EnFmc268vrlmMDYz07Pgk=
+
+Name: sapjco3/com/sap/conn/jco/monitor/JCoServerMonitor.class
+SHA1-Digest: TDX7EzRQgchNKULUC8GD4I2pGvQ=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoApplicationAuthorizationException.cla
+ ss
+SHA1-Digest: FJ5jRpNfCw+LQL9k3YTZwv5MkFU=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcTest$1.class
+SHA1-Digest: rlpxyuWNzCzqHEVx68jDip/SlxE=
+
+Name: sapjco3/com/sap/conn/jco/rt/ServerAuthorizationData.class
+SHA1-Digest: 77LYF6Gdw1LeLciAXy+GJ6uXKFo=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultParameterFieldIterator.class
+SHA1-Digest: cm/GDC52fPG6dOlnB1XQ1zHfbWw=
+
+Name: sapjco3/com/sap/conn/jco/JCoRepository.class
+SHA1-Digest: 5Ye8QY7oNP6+Dkz/DmCTupZ18t8=
+
+Name: sapjco3/com/sap/tc/logging/OverwriteLogfileEvent.class
+SHA1-Digest: Cg3qh+zbL4L+YB/2ypw048JtVP8=
+
+Name: sapjco3/com/sap/conn/jco/util/BasXMLTokens.class
+SHA1-Digest: +U+08/uTgIitEU/lbenxaSqZpIQ=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$FormatterEntry.class
+SHA1-Digest: z+CTHDkE0t0f2OALYNwzQOZmp4w=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc.class
+SHA1-Digest: 30O50fG4cyJL8psAMSVlqsoqXDQ=
+
+Name: sapjco3/com/sap/tc/logging/ILogRecordFull.class
+SHA1-Digest: 8hJfgzPTfVxasBwzim7xFRn1bAE=
+
+Name: sapjco3/com/sap/conn/jco/JCoRequest.class
+SHA1-Digest: sEPFyDTjsd8uItYnSTD7iXcGRFQ=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcGetException.class
+SHA1-Digest: 8j914U4nWVQn7jkRqCVfA8QdLZ0=
+
+Name: sapjco3/com/sap/conn/jco/support/RepoUtil.class
+SHA1-Digest: VCf5Deg8e4MHfYWx13NtEFDNBHM=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$JCoRepositoryMapBox$JCoReposit
+ oryReference.class
+SHA1-Digest: q0uUZ01idwNiIGcxmi4NxRozsHY=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultJCoRuntime$OS.class
+SHA1-Digest: ttvCKe8x2tB5RBiR1fc+Pkcp75E=
+
+Name: sapjco3/com/sap/conn/jco/JCoRecordField.class
+SHA1-Digest: YoiRRwGBV4i4Pr42ZJ89MbqhNYQ=
+
+Name: sapjco3/com/sap/conn/jco/session/JCoConnectionState.class
+SHA1-Digest: oiOEM7HkYTVLVv/a6xw58Y6RzPI=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGet$RfcGetState.class
+SHA1-Digest: wcw2TplTshOXWQwm68LewEJG3IY=
+
+Name: sapjco3/com/sap/conn/jco/rt/PoolChangedListener.class
+SHA1-Digest: zPAR67pKoKub3IMViTCI6fkXnJE=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerUnitIDHandler.class
+SHA1-Digest: pRWvT8J7IWkU3n749xYkFs1lMmk=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcRecorderInfo.class
+SHA1-Digest: LVnDGTYXI/MVJpvx9rmJL/P+e+M=
+
+Name: sapjco3/com/sap/conn/jco/rt/Obfuscator$MAP.class
+SHA1-Digest: 1GM2cuK4mrrtbV2a768WP9+0hUE=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IReadLog.class
+SHA1-Digest: pLb8ia/74QBXdebUYJfj2mRa3ac=
+
+Name: sapjco3/com/sap/conn/jco/rt/Obfuscator$1.class
+SHA1-Digest: IS4man7Crn8s12jDbfskLCVZgOw=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionManager$1.class
+SHA1-Digest: V/le6/ZWDYez5v4vOrsRUTBumeo=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$DDICHelper.class
+SHA1-Digest: Ycxrxrnc/MeiNJW9OQwKsaI/GEc=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertErrInfo.class
+SHA1-Digest: z6Ld6xgVb7ELvAHfehntjPxozDg=
+
+Name: sapjco3/com/sap/conn/jco/util/XMLWriterBase.class
+SHA1-Digest: 20UniJQ94k6fwJWS2pFNitXgcu8=
+
+Name: sapjco3/com/sap/tc/logging/SimpleLogger.class
+SHA1-Digest: nazMiC+fQrI0a6S8bqiN//iHOwg=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$JavaRfcClient.class
+SHA1-Digest: z70B6Mlmkll8CmM1EtVSkethV4I=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$SeverityAttr.class
+SHA1-Digest: RucrhqczzHFWm6j0C0ABLzmkiPM=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonParameterListMetaDataWriter.class
+SHA1-Digest: RW+T6z2Pi84JniSu4IF7yOwq/xw=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit$1.class
+SHA1-Digest: f3p/wolgVlttdFhdHEf/3SFDxf8=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcValInfo.class
+SHA1-Digest: C1r3hRxKv/FJQx89N/rePAVItug=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultTimeoutChecker.class
+SHA1-Digest: X7H7R3j4KTk18Ny9Hi7t2yjNgmw=
+
+Name: sapjco3/com/sap/conn/jco/util/DefaultSharedStorage.class
+SHA1-Digest: +dHCUUe9d/iR2H8f5iuTJ1zBZG0=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcApi.class
+SHA1-Digest: 6F2oLG4kAHAJdcMhQMR7UAzOvng=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/CacheIterator.class
+SHA1-Digest: IW06SyULoWMzc6jv/Cj1yLv8dio=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasicRepository$BasicRepositoryMonitor.class
+SHA1-Digest: LfO5lGFx4vgGXZXim9OCow18u74=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$FormatterRefKey.class
+SHA1-Digest: aT6V3AWvUVWAEB2sTBKOH+KYKyE=
+
+Name: sapjco3/com/sap/conn/rfc/data/ARfcSDataHeader.class
+SHA1-Digest: 49/ztneOordejVcGuStWlQT5ihc=
+
+Name: sapjco3/com/sap/conn/jco/rt/StructureParameter.class
+SHA1-Digest: MHWDpnyhi9DLjzKn+YDZY2eR5f4=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractField.class
+SHA1-Digest: +4PaOEFfHpok61MXvamm/CcKvAI=
+
+Name: sapjco3/com/sap/conn/jco/util/CharacterEncoding.class
+SHA1-Digest: dLQKIYGjr0NGHgZLyy2KgrYFCbA=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/RecordCacheIterator.class
+SHA1-Digest: Sc3QLPJ8uBIXajAqStw3j9SCeas=
+
+Name: sapjco3/com/sap/conn/jco/monitor/JCoConnectionData.class
+SHA1-Digest: N9e40Ff/7/Zw8HNW59VCzpOR45w=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$Element.class
+SHA1-Digest: O9ZORHoRdn24/StPWMj641quU6M=
+
+Name: sapjco3/com/sap/conn/jco/rt/MetaDataStorage$1.class
+SHA1-Digest: rKfu8LE9/F8OGhq7/WtaJlIzDPI=
+
+Name: sapjco3/com/sap/tc/logging/FileLogSet.class
+SHA1-Digest: R7JjxDKyEqKBUXWYRFMLU/6r+Z8=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog$1.class
+SHA1-Digest: RHk99gQ5A8x5ULFZMMbYAfqHMy8=
+
+Name: sapjco3/com/sap/conn/jco/rt/MetaDataStorage$StoreKeeper.class
+SHA1-Digest: GXM84ZTrdd3fZv7DJUFLIpwukXQ=
+
+Name: sapjco3/com/sap/tc/logging/LogController.class
+SHA1-Digest: gYm3SpFo+wBt91fZ44Zy/XU8btU=
+
+Name: sapjco3/com/sap/conn/jco/rt/RepositoryConnection.class
+SHA1-Digest: jc8t4l5fdXP4+fkg7HmRm5C6c6w=
+
+Name: sapjco3/com/sap/conn/jco/JCoUnitIdentifier$Type.class
+SHA1-Digest: 7ZzkXMCHXcq5KtT+YVBwx/oNVBc=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/ILogRecord.class
+SHA1-Digest: wH4BoTe+VkLn1PibRrgu6zYJQ/Y=
+
+Name: sapjco3/com/sap/conn/jco/ext/SessionReferenceProvider.class
+SHA1-Digest: 5a4uCVA16gmbl+WbmDaX5Hc/lkM=
+
+Name: sapjco3/com/sap/conn/jco/ext/PasswordChangeHandler.class
+SHA1-Digest: cbdVE6NI9ay73uLfFcvfgPBWrlg=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcSetRegServerProperty.class
+SHA1-Digest: CWr301N1uA+QhbaGA+Qsk6jDBL8=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVFormatOption.class
+SHA1-Digest: /Booc99acf5iG2Vu5eXP3193QnE=
+
+Name: sapjco3/com/sap/tc/logging/reader/LogRecordResultSet.class
+SHA1-Digest: OZK89hG1T3wW942+jzLed5R/HcE=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider.class
+SHA1-Digest: ljSbVNVXEHW4+6tJW2ciCZKQp4Q=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcCustomizedDestination.class
+SHA1-Digest: Os3Z9OnUSSgzmKnDPCPziW5lhts=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonContainerReader.class
+SHA1-Digest: Z4oRyqaOIzzmJeZqEkk1JkfAF7E=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IClassLoadRuntimeInfoProvider.clas
+ s
+SHA1-Digest: 1QHFHaKv3Ms1CDcaZHVXww6Vl90=
+
+Name: sapjco3/com/sap/tc/logging/messagedepot/MessageID.class
+SHA1-Digest: Yyr8lH6SM7VGluPzZtmE5Pdi1hE=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcPing.class
+SHA1-Digest: UUVNh+4krkNICXYSk0lfnRJJEYM=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultAbapObject.class
+SHA1-Digest: qhOU6TaF+Zwo+wuoOdxB7lrsPb0=
+
+Name: sapjco3/com/sap/conn/rfc/data/RFCSI.class
+SHA1-Digest: /lcfJat5O7o65vPyWhDTRBSVA2Q=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcRc.class
+SHA1-Digest: 2cO4Ae5hDhsFXUiJpX2Fa3YLeIw=
+
+Name: sapjco3/com/sap/conn/jco/rt/TableParameter.class
+SHA1-Digest: 4p9uoHrOdw/RXRfPatlHqLwUFEw=
+
+Name: sapjco3/com/sap/i18n/decfloat/DecFloatOverflowException.class
+SHA1-Digest: aSWJ+O+h2t9SzKP14DqJITGC8k0=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IFileSetLog.class
+SHA1-Digest: Xow+nn84OmwPE27BO+c6G0sCbaY=
+
+Name: sapjco3/com/sap/conn/jco/rt/AutoJobRunner$AutoJob.class
+SHA1-Digest: OOTuCoHe8RkaADfsNvqQLUJg6Bo=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionAttributes.class
+SHA1-Digest: SIHUY0z+G/mZm78yD59Z8x7d2QA=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToSystemCp.class
+SHA1-Digest: 3hfnnbaD3KxezIn9+dt4tKa+Ctw=
+
+Name: sapjco3/com/sap/tc/logging/LogRecord.class
+SHA1-Digest: L9fBfbjJTRepqozD/VyKnHLhhiI=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerErrorListener.class
+SHA1-Digest: mYR+8yS9UVUkyiEpU53LPjloeeA=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$5.class
+SHA1-Digest: Y7olHcWPrMpnzEgh9wfl3o26zNQ=
+
+Name: sapjco3/com/sap/conn/jco/JCoContext.class
+SHA1-Digest: VwB033Y9Kq17NPbgBH1CWbUlqV0=
+
+Name: sapjco3/com/sap/tc/logging/Configurator$1.class
+SHA1-Digest: GLUZ9TEZPEaG4cda007ZoofZTw4=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVAction.class
+SHA1-Digest: LXMOorV03lZpB14/TYZBeWPUgcM=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcDriver.class
+SHA1-Digest: MAerfr1OpZDClCvBYTPfohd8Ed4=
+
+Name: sapjco3/com/sap/conn/jco/JCoThroughput.class
+SHA1-Digest: 8Jxpj9lbytSHwRxhBhHOD48IFZY=
+
+Name: sapjco3/com/sap/conn/jco/support/Test.class
+SHA1-Digest: 4mZNDnB2BtCLeRymWz7ld+GGt40=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerContext.class
+SHA1-Digest: Szsj8mDgcC8tzK04PlWYBnY5YpI=
+
+Name: sapjco3/com/sap/tc/logging/tools/monitor/ConfigurationMonitorServlet.cla
+ ss
+SHA1-Digest: yoXdA+OaqUj9zmU6XUB32+md3s8=
+
+Name: sapjco3/com/sap/conn/jco/rt/Converter.class
+SHA1-Digest: a8xJGC5aorisMWbPeocktGtXd0k=
+
+Name: sapjco3/com/sap/tc/logging/Category.class
+SHA1-Digest: LPway3ZVSBKmsBQrwbjkJ24wlNo=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcDestinationMonitor.class
+SHA1-Digest: /KKO2JiClFNBq6rPN0+3w4PQhwE=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/FileCloseException.class
+SHA1-Digest: 0PGGsZKoN4K7z/xUNv1GsV5kM4A=
+
+Name: sapjco3/com/sap/conn/jco/XMLParserException.class
+SHA1-Digest: 3+RF+uoIUyk/B1LqaMAyLAxRQ/o=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/RepWriter.class
+SHA1-Digest: YgeAq3Ekkjt6ujmPgc8TRrM69pM=
+
+Name: sapjco3/com/sap/conn/rfc/api/BasXMLAware.class
+SHA1-Digest: gsjShcQDGr4prMS5QasBhjyPlk4=
+
+Name: sapjco3/com/sap/conn/jco/rt/XRfcParser.class
+SHA1-Digest: KuF6G60WIUeNafAFB03Xcir2ibI=
+
+Name: sapjco3/com/sap/conn/jco/rt/StaticFunctionTemplates.class
+SHA1-Digest: Qr8AeO8/f3rSLRpzeS9urO3Yjak=
+
+Name: sapjco3/com/sap/conn/jco/JCoMetaData.class
+SHA1-Digest: c3fsVJnTAORXLM5lnRDvzD0mgVk=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerRequestHandler.class
+SHA1-Digest: wpFfbaVNE1K10eZ5bwZjQuluVes=
+
+Name: sapjco3/com/sap/conn/jco/JCoFieldIterator.class
+SHA1-Digest: 1cHtWiFpWvq62lcKScwbyo2JQSQ=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToXTImpl.class
+SHA1-Digest: VLBw42aiiwNJhwEPD37XPIznb2M=
+
+Name: sapjco3/com/sap/conn/jco/rt/RepositoryManager.class
+SHA1-Digest: GtJrCzV/Y1QC/8j+ZLjSeo8pRyI=
+
+Name: sapjco3/com/sap/tc/logging/RemoveLogListener.class
+SHA1-Digest: C4zBYykMr0JJFLNG7qF2eLD6BU8=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonStructureReader.class
+SHA1-Digest: EGNAUcWKGA00O8p4qD9vqHvcuyo=
+
+Name: sapjco3/com/sap/conn/jco/rt/ServerWorker.class
+SHA1-Digest: oKnieTHd4NWwLItRmOUuOXTYujA=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToAsciiTImpl.class
+SHA1-Digest: VqNqnc0c4fdBEzsZnXlnQgZTJAw=
+
+Name: sapjco3/com/sap/i18n/decfloat/DPDTable.class
+SHA1-Digest: lcP+7O+HmC7ZZddjMAhSVmriGMg=
+
+Name: sapjco3/com/sap/tc/logging/RemoveLogEvent.class
+SHA1-Digest: 1sOGDdcsMxZGMfFOh8FZvpy/t/c=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$RefKey.class
+SHA1-Digest: qy5HitlkyLq/Rif4HMiOsdIQI/o=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractMetaData.class
+SHA1-Digest: fb/+TydFHiFI+y2L6ypmHEv/ItE=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToCFactory.class
+SHA1-Digest: +8cnpzddV0Jm7RdmASE88oSm3YI=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultStructure$Type1Record.class
+SHA1-Digest: DfyB/iUFzdKYDKnomI2KwgXjRiY=
+
+Name: sapjco3/com/sap/conn/jco/server/DefaultServerHandlerFactory$FunctionHand
+ lerFactory.class
+SHA1-Digest: 5f07/3XsPfuvt8Kd1ClQ1+3iV/E=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider$Counter.
+ class
+SHA1-Digest: lF2EfzVKBXiMQViHCiEq9ruQ6dE=
+
+Name: sapjco3/com/sap/conn/jco/AbapClassException$Mode.class
+SHA1-Digest: sE2a2n3mLAUKENN6yeTSvER+gRw=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcDriverState.class
+SHA1-Digest: D0qG9zlOTJL7P3GnFWxV2Wqk+Aw=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/ISATChecker.class
+SHA1-Digest: X9ZENt0CfdqKUVzc4CgQtf/7QSw=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapFunctionTemplate.class
+SHA1-Digest: 12a0v9N3Hq1mbmgvJRzsqYk9O60=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcTraceWriter.class
+SHA1-Digest: vcgEQUDcbX5O/hvlEU7R97U1ED8=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$AES$1.class
+SHA1-Digest: 8XBPKkbBIBbuaF/gGtkp7GzmIaA=
+
+Name: sapjco3/com/sap/conn/jco/JCoRemoteContext.class
+SHA1-Digest: 5HPg5w+hU5EZ7FuFh7r/w8yY/0g=
+
+Name: sapjco3/com/sap/conn/jco/util/Dsr.class
+SHA1-Digest: Yd8RnAA/8L0BwtyNfJK1Y5VMZTk=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToSystemCpTImpl.class
+SHA1-Digest: pz38A6tsd0ED3D4YkF00qRsNBfQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionManager$PoolFinalizer.class
+SHA1-Digest: aX3CD17Hj4LAdvpONlSmqtXC6jI=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog.class
+SHA1-Digest: aHmANrJEBATf3TT35x6YVyRpLQA=
+
+Name: sapjco3/com/sap/conn/rfc/engine/DefaultRfcTraceWriter$TraceWriterFactory
+ .class
+SHA1-Digest: bGxs9gyENZnhH1hGQqIWei9M60M=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog$1WindowHandler.class
+SHA1-Digest: /o0yEVxlKTWU1mvjYje/FdYQqIY=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$CustomClassVal.class
+SHA1-Digest: qMWriOlR1g7RpH1bOl7o375xW/o=
+
+Name: sapjco3/com/sap/conn/rfc/api/IRfcParameter.class
+SHA1-Digest: x7oLy5Ue+WgUNQzdAvnZz5aKD9g=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$TokenType.class
+SHA1-Digest: ahrnuky80cP5jJfJykbX1kyh7RE=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSimpleBase.class
+SHA1-Digest: xNaoAy677dnc2xaToiEiyfhlgGA=
+
+Name: sapjco3/com/sap/conn/jco/rt/MutableParameterList.class
+SHA1-Digest: S6ulXvGb3K4pHfJxUVj5NuDybi4=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcDestination$1.class
+SHA1-Digest: Csxb5apoG9+YqWL5M2uHNrNkv9w=
+
+Name: sapjco3/com/sap/conn/rfc/engine/DefaultRfcTraceWriter$ErrorTraceBackupFi
+ lter.class
+SHA1-Digest: YxRGrzB6CsMu36nQOPuZyRPirXY=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/FileOpenException.class
+SHA1-Digest: 0KWqdYkrQfjCdbNb7shO3T0zySo=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRemoteContext$1.class
+SHA1-Digest: P600pN9KmeaXZTcnnsx42s0Ig6o=
+
+Name: sapjco3/com/sap/conn/jco/rt/Context$ContextState.class
+SHA1-Digest: uCzorxrbR246KaPTxQlXtGho50E=
+
+Name: sapjco3/com/sap/tc/logging/BaseLog.class
+SHA1-Digest: 4V2VfVA83mDq/xeS4igB02NrZM8=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider$KeyValue
+ Pair.class
+SHA1-Digest: Y/QDz5JWeyrtpYR9duEp89prFa8=
+
+Name: sapjco3/com/sap/tc/logging/MessageBuilder.class
+SHA1-Digest: mYZq/HKPwKkudGX4JKjihcJ0KiM=
+
+Name: sapjco3/com/sap/conn/jco/JCoFunctionUnit.class
+SHA1-Digest: Wul21Xv+iViZvH/auCcQ/48et4Q=
+
+Name: sapjco3/com/sap/tc/logging/FileLog$1mkdirsAction.class
+SHA1-Digest: UOjBDptke3k5Nxp4/K+upoja9eY=
+
+Name: sapjco3/com/sap/tc/logging/reader/ReadableLog$LogEventsListener.class
+SHA1-Digest: NaqsD3aMjk9SVJcIF2t7dCEfwk8=
+
+Name: sapjco3/com/sap/conn/rfc/data/ARFCSDATA.class
+SHA1-Digest: lx5AKfiKtzX7QfFeiFkpF4OJAwE=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$ServerMonitor.class
+SHA1-Digest: rLUWS+Z2r8mn71XtFmheGqkgRXQ=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LV.class
+SHA1-Digest: W8HybSoUgUyFUapggQN5survjvs=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$3.class
+SHA1-Digest: Kv6gQJLE/fRWuhM8B/Bim5XaUWw=
+
+Name: sapjco3/com/sap/conn/jco/JCoRecordFieldIterator.class
+SHA1-Digest: vUHXVcZApjAg/PMe1i18q42WePY=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager$DefaultServerFactory.cl
+ ass
+SHA1-Digest: /pVOaYrRLwXa5DQyNz4vqkvN28o=
+
+Name: sapjco3/com/sap/conn/jco/rt/CustomRepository.class
+SHA1-Digest: u4N88eooJyx+e3vGwyQcZGinPC4=
+
+Name: sapjco3/com/sap/conn/jco/JCoListMetaData.class
+SHA1-Digest: JKUaRCOs0tWe2o4A8QXj7NZAU7M=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IBaseLog.class
+SHA1-Digest: 8Z0vBHT/pkPMl8lgBDTRpC2yXQ8=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRequestResponse$ResponseRequestMetad
+ ata.class
+SHA1-Digest: GflXB9XzvUeXaF+0S9EKzxoObbk=
+
+Name: sapjco3/com/sap/tc/logging/messagedepot/MessageAccessorFactory.class
+SHA1-Digest: nWYrtZzwL4jgrJpcxGgPZ+2Jbw4=
+
+Name: sapjco3/com/sap/tc/logging/NewLogListener.class
+SHA1-Digest: WFCeKlPf6CiMw2oFUoKtMs/sX+g=
+
+Name: sapjco3/com/sap/i18n/cp/ConverterException.class
+SHA1-Digest: l+5a/yi+nOWU9/qLvGOu4GmUlKY=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUc2Utf8.class
+SHA1-Digest: MtLCZrNdlhLO4xPWLWE6CcWaAf0=
+
+Name: sapjco3/com/sap/conn/rfc/data/RfcChar.class
+SHA1-Digest: 1TIE/497nDpDgXatTorSkGBXmVc=
+
+Name: sapjco3/com/sap/conn/jco/rt/SessionFinalizer.class
+SHA1-Digest: pyyizyM79EEaAC/lk7FcRHv0Olg=
+
+Name: sapjco3/com/sap/tc/logging/messagedepot/MessageAccessor.class
+SHA1-Digest: 428Sjv8QwWUzVv3PR9UXX+1fxQM=
+
+Name: sapjco3/com/sap/conn/rfc/driver/CpicDriver.class
+SHA1-Digest: CnFnNzYc2k6MSOEHPLe8irFT/kU=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertTImplBase.class
+SHA1-Digest: bdai1OtdSNBNr32/0Twq2xGh1iI=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$Attr.class
+SHA1-Digest: usywekDJhh6rJWNc4NwMTXMyMrU=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/ReadException.class
+SHA1-Digest: tlztwQa3MIb9SOroxCQL6vaLfI0=
+
+Name: sapjco3/com/sap/tc/logging/ConsoleLog.class
+SHA1-Digest: PYKx7n5mgSF0DV+vG+sDNmG6NN8=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSb2Uc.class
+SHA1-Digest: B7vuSqCc3VVf96+NWbsZn5rzIVo=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/FileDataException.class
+SHA1-Digest: AKatcaWbi3NYn3QwHByM9tnNWpw=
+
+Name: sapjco3/com/sap/tc/logging/reader/ReadFileSetLog.class
+SHA1-Digest: lktqcMnsfiC1fOYhft568u+QrFo=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetName$1.class
+SHA1-Digest: qa/uMYadXlHdAkCJQGi9NFq2dYs=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToXFactory$ShortcutBase.class
+SHA1-Digest: 5CqvAkTHX59mXQi2REH+L66t9vQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/InternalDestination.class
+SHA1-Digest: cJksY0Uuh4QrJyUxQqQ5+Bwdt6k=
+
+Name: sapjco3/com/sap/conn/jco/rt/StandaloneServerFactory.class
+SHA1-Digest: sdpje9eE6ezFb55zPzO3Xaw3Xlg=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcPut.class
+SHA1-Digest: 3/jFS4UxyZmfuc6DTiN8g9TvQbI=
+
+Name: sapjco3/com/sap/conn/jco/util/ConnectionInfo.class
+SHA1-Digest: vaeYXSaTZg6xcuoJM67Q+cQkf2s=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertC7bOnlyToSystemCpTImpl.class
+SHA1-Digest: cawQsDLIzqErriuu3cIq65E7pF8=
+
+Name: sapjco3/com/sap/i18n/decfloat/StringUtil.class
+SHA1-Digest: PFsoX0bzOGJJEkmD+gp6gcKFPUY=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapBackgroundUnitAttributes.class
+SHA1-Digest: hkG+VEpSMZkDx6b2wj01pakmOKc=
+
+Name: sapjco3/com/sap/tc/logging/MsgType.class
+SHA1-Digest: zszRvWW4s2YVbdHGuKcTHyLSLvc=
+
+Name: sapjco3/com/sap/i18n/cp/CheckCharsetOfString$CheckInfo.class
+SHA1-Digest: UbTvoP55qQYRYDMQNgdIDL4thOI=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcAcceptInfo.class
+SHA1-Digest: CtO2A6L6ECsMxBU21FgpVB1uptg=
+
+Name: sapjco3/com/sap/conn/jco/rt/Obfuscator.class
+SHA1-Digest: U98xz1Gg+qbF8Pa12V0KtrLRzj8=
+
+Name: sapjco3/com/sap/conn/jco/rt/XMLWriter.class
+SHA1-Digest: kUh4pyZ5HY+2KgWO9Ik/1yp4DHc=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit$FunctionPayload.class
+SHA1-Digest: WdqW7ulN04oxaY8DttTUxRaZkqk=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetName$SystemFunctions.class
+SHA1-Digest: Ob/9Sgo64rBUuRLOOvpJIcECTn4=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$1.class
+SHA1-Digest: t7quIUwnaEeYf0S2EP/5yx51drU=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUc2Sb.class
+SHA1-Digest: O3JJWHy3nxo48ncPdYqGL21+gFI=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultDestinationManager.class
+SHA1-Digest: 3ve0Xyc5UxD4VNbIY6dvyArkUew=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultThroughput.class
+SHA1-Digest: gVhrXR6ZNSWRz0QoaKVSEOr1dBQ=
+
+Name: sapjco3/com/sap/conn/rfc/engine/TRfc.class
+SHA1-Digest: Kp7KRUQw8e/Lu7dgJD66K1deX2c=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToCFactory$ShortcutSb2Uc.class
+SHA1-Digest: i6tnbjCvI12t4U34GmHyIbjmiXk=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRecordMetaData$Type1MetaData.class
+SHA1-Digest: Obp+Fzg4grUUN215EgJdKwRvbMs=
+
+Name: sapjco3/com/sap/conn/jco/JCoAttributes.class
+SHA1-Digest: 218L/+RADb1GrVpVJcks5R5FRNE=
+
+Name: sapjco3/com/sap/conn/jco/JCoAbapObject.class
+SHA1-Digest: MCahqZTsOptS7eUsW+y+3ATaKFE=
+
+Name: sapjco3/com/sap/conn/jco/monitor/JCoConnectionMonitor.class
+SHA1-Digest: Z86OVPTAHarEytn89zWa8W3BgwQ=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$LogRefVal.class
+SHA1-Digest: H3+o3ENAhfzzi7Kww5bQJXO4RA0=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$LogRefKey.class
+SHA1-Digest: 0QxBiBJf46pVLAuE9jTOt78hUlo=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCCCErrInfo.class
+SHA1-Digest: GMRNDHvTBOzxRpAFIAzHM+PIu0o=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/ILoggingResultSet.class
+SHA1-Digest: E8w8IS9hVqd2LM4cJg4wkpRdQD8=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IReadableLog.class
+SHA1-Digest: 4OVqVchM8vO1eCc7cDiNDfeofX0=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator.class
+SHA1-Digest: TeStrutaAbsraQVLz1WZoc4Vumc=
+
+Name: sapjco3/com/sap/tc/logging/XMLFormatter.class
+SHA1-Digest: NMdp46q3OsZTfmO9N16dEvQ42dk=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcSys.class
+SHA1-Digest: 4/2SDFp2iTJ9znRNTvrPvIKZ9Hc=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IRuntimePropertiesProvider.class
+SHA1-Digest: b2tjQAzuk0QljTwMqnY3ha9g8Cg=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcDestination$ConfigurationState.class
+SHA1-Digest: Xldqp3ybZcf4q3tPNTRqE3RpxBw=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcIoOpenCntl.class
+SHA1-Digest: H/ObyIRMXXQ2HNRGjSszb8QUuB0=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcJPing.class
+SHA1-Digest: ERnehVVzwDc4lSsLpiO3pS6jShk=
+
+Name: sapjco3/com/sap/conn/jco/JCoRuntimeException.class
+SHA1-Digest: qiR24ilQzjhkDMR4XF6zsGO1lDc=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcServ$StfcConnectionHandler.class
+SHA1-Digest: fGhyrLhPWlYU2hOYkePWAT57bhc=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JCoRepositorySerializationException.cla
+ ss
+SHA1-Digest: THwoInrxAZ50YR45AvSI2b+dygs=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit$ByteBuffer.class
+SHA1-Digest: mTZGZ/yl9WlRcGVkm43A5+shwZg=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerThreadStarter.class
+SHA1-Digest: X/i7WmWgd54u9wCuNByimpzOK+E=
+
+Name: sapjco3/com/sap/conn/jco/JCoStructure.class
+SHA1-Digest: PTxMyi0r25j4AU+haY92sCCESrQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/TableCacheIterator.class
+SHA1-Digest: 0L/jr2hlF5e2ieKP+scawFaK2Uo=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/ExMSGs.class
+SHA1-Digest: qa6tfGVifLnsQIREPPjC4ZXE2/s=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonTableWriter.class
+SHA1-Digest: IQsDtigkhgmA1KW/9q1ZzlTBP/Y=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVLogger.class
+SHA1-Digest: IGu9lhPPumxbyg9MEmJchu8o2oI=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerStateChangedListener.class
+SHA1-Digest: 2Gq8HvzDppMYF5EXTiIqcj4MMK0=
+
+Name: sapjco3/com/sap/conn/jco/JCoFunction.class
+SHA1-Digest: /IlSDipN+bt4xSyd1tgPMZ8hNNI=
+
+Name: sapjco3/com/sap/tc/logging/Tokenizer.class
+SHA1-Digest: pK3TkIkaPybOddPRYYZ6NfjXsak=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$LZTableInputStream.class
+SHA1-Digest: g8F6lY478xB02aRqxitsbiPVOLw=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultConnectionManager.class
+SHA1-Digest: B6KEtgt8kEp2WLHYMWq2eFJGP1Q=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$BooleanVal.class
+SHA1-Digest: Fd0xbUZvgrltWAbvt03YZNAn6cs=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcServ$GenericHandler.class
+SHA1-Digest: 3nW2yRGyrdX7PWO+wzOKFmRERXg=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapFunctionUnit$UnitIdentifier.class
+SHA1-Digest: bX0WLIIk6PLSQm2tOiFYg/MtXfM=
+
+Name: sapjco3/com/sap/conn/jco/util/Codepage.class
+SHA1-Digest: mYXLe/nFWBVL1BkhEcVZkJtH2s8=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToAscii.class
+SHA1-Digest: EMkZI8e2vhsDqx2P0CDnGniViWc=
+
+Name: sapjco3/com/sap/conn/jco/rt/RuntimeEnvironment.class
+SHA1-Digest: wBofHykvrpT1vSq3HmunOwvkEcA=
+
+Name: sapjco3/com/sap/tc/logging/ReleaseLogEvent.class
+SHA1-Digest: Oso+7hus16OYcq8xY2K5Ebk3IAg=
+
+Name: sapjco3/com/sap/tc/logging/perf/PerfLogRecord.class
+SHA1-Digest: QVMLoqloZW13DmBnmpDPGb81JiQ=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerFactory.class
+SHA1-Digest: YRZzXCoDqi7jdL7cd9in924/J3Q=
+
+Name: sapjco3/com/sap/conn/rfc/api/IRfcFunction.class
+SHA1-Digest: zYMIKN1aVwYdFtdApxYiHEE7T1Y=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IFileLog.class
+SHA1-Digest: 5FNNC5y9/1gzv8G0q6tQF2Zm2kA=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog$NamedValuePair.class
+SHA1-Digest: PiNpVf8p2xDTpe6qBa59O+wmTic=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IRPPublisher.class
+SHA1-Digest: e7+dg9R83LLHnqtFBXIHU8O6Y5I=
+
+Name: sapjco3/com/sap/conn/jco/util/FastBufferedWriter.class
+SHA1-Digest: kg+w/KxNZYLmM0b/+b1ZbT1Pq84=
+
+Name: sapjco3/com/sap/tc/logging/LogController$Regarders.class
+SHA1-Digest: 2o2p4xBoCVfMikeheuJVC5mG7bI=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCCCDataErrInfo.class
+SHA1-Digest: uv2MghelT5Knz0ZaOTilleOOrIY=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/RepReader.class
+SHA1-Digest: MBz8vUrz1twcc89CKGX3IKKoqCg=
+
+Name: sapjco3/com/sap/tc/logging/LogController$Relation.class
+SHA1-Digest: RgWglQYdo/DfEo6T4NLUCnKYtGs=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Compress$CsInputStream.class
+SHA1-Digest: lEN/uxxpfo5OJO+8hMG0hemUunk=
+
+Name: sapjco3/com/sap/conn/jco/rt/CallbackHandler.class
+SHA1-Digest: yUXlyJTpQq5oSZMfzW9WMzOhMyk=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToXFactory$ShortcutUc2Db.class
+SHA1-Digest: 0XsMo6I/M1BMODInMXKNBiG/PV8=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcGetErrorCode.class
+SHA1-Digest: qoTyOYbcQVCGh28y2Z0eIPFbV3M=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$Tokenizer.class
+SHA1-Digest: RRtXyUKBzknrGNSZp9VwMT15z78=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcServ$MyServerStateChangedListener.c
+ lass
+SHA1-Digest: 5nx36nYPmZo5W9FVo69fdZ0JG8s=
+
+Name: sapjco3/com/sap/conn/jco/support/SimpleDataProviderImpl$1.class
+SHA1-Digest: yDf+72QHdvlOQitqA6YjKURmopk=
+
+Name: sapjco3/com/sap/conn/jco/rt/RepositoryProvider.class
+SHA1-Digest: gSq1dumnNwpu8/u7gfbRik4kvTc=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcTypeRegisterCpic.class
+SHA1-Digest: jsw+3/ENPB8aW3lSMFuOxco7tA4=
+
+Name: sapjco3/com/sap/conn/rfc/engine/GUID.class
+SHA1-Digest: FvnUmtIqgpS2D4NKzKr72Fo5E4I=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUc2Db.class
+SHA1-Digest: gsGgcP3WgW9NzGDKbduQxuf8WaA=
+
+Name: sapjco3/com/sap/conn/rfc/driver/LG.class
+SHA1-Digest: l3DNXz8jKJCSiKQ+NoLmkI4myGw=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerFunctionHandler.class
+SHA1-Digest: Z7RbesC5FCQAk373XolZnPBn/i4=
+
+Name: sapjco3/com/sap/conn/jco/util/SapLoggingTrace.class
+SHA1-Digest: UaMtGnEHxDMBttXkJaAKafKfVlk=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonFunctionTemplateReader.class
+SHA1-Digest: glrxShKFk55xGZCwEnz/yejbpt8=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$Val.class
+SHA1-Digest: yaFbQCyAUODf3MgbY2kTbnbz22Q=
+
+Name: sapjco3/com/sap/tc/logging/DCMapping.class
+SHA1-Digest: gPS796XsmMubcdJrWGj58spJXDs=
+
+Name: sapjco3/com/sap/tc/logging/ListFormatter$LFStringTokenizer.class
+SHA1-Digest: 58MaQmUe8r22seT6x1vqwNlSTp8=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertC7bOnlyToSystemCp.class
+SHA1-Digest: U1tW1Ydx97fVFeX0RSEnoAJQVaA=
+
+Name: sapjco3/com/sap/tc/logging/LogEvents.class
+SHA1-Digest: WUj/N58OEAuBqn9K10KlX5gGifM=
+
+Name: sapjco3/com/sap/conn/jco/util/TimeZoneUtil$MapEntry.class
+SHA1-Digest: eKNYZRJp5YJzyGplQSoJxCyZGIE=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$JavaRfcServer.class
+SHA1-Digest: eUIA9BCVnp+9po/ksKBPf3Sgcic=
+
+Name: sapjco3/com/sap/tc/logging/ExceptionHandling.class
+SHA1-Digest: X4ConvT2m4eNC4W35vMBNnHNXdE=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream.class
+SHA1-Digest: XMZjMvWPJkHypFdCUWITlTchN5s=
+
+Name: sapjco3/com/sap/tc/logging/CreateLogfileListener.class
+SHA1-Digest: uhA382FGr+Y7LXbZpylG5qTWQao=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager.class
+SHA1-Digest: gdA4SLjcr3laCAnTIp5Kq0Z59rY=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcTest.class
+SHA1-Digest: gGQ/AdPgwvRpIH6dlmKDbLEcisE=
+
+Name: sapjco3/com/sap/conn/jco/ConversionException.class
+SHA1-Digest: ydUoIsGX4w+DyXbdrIHZ22j55RY=
+
+Name: sapjco3/com/sap/conn/jco/JCoDestinationManager.class
+SHA1-Digest: yvUD8ZxdDvEDK0ISAPmQcVSCF50=
+
+Name: sapjco3/com/sap/conn/jco/util/IntHashTable$Entry.class
+SHA1-Digest: RonsiETgUZZZPtyXOWTrtzyGrEs=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToX.class
+SHA1-Digest: DwNpzgsYBp24l996kE0K87johUg=
+
+Name: sapjco3/com/sap/tc/logging/OverwriteLogfileListener.class
+SHA1-Digest: r8deIxOMM4XVS5b7b6b1utzG8mE=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRecordField.class
+SHA1-Digest: EdxF8peCX7gmTQMZAkk9NxCBaFM=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$JavaRfcServerGroup.class
+SHA1-Digest: SqSY7gpi8baN+XK9r0qza3+7LaA=
+
+Name: sapjco3/com/sap/conn/jco/util/DefaultTrace.class
+SHA1-Digest: hJp2sosIU+QK55Z8slZW41rOhD4=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$RefVal.class
+SHA1-Digest: 6pGUMvfHgAGDo8y6SNpWLX4DSD0=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVReader.class
+SHA1-Digest: yC7WTXVklTzmkKDzX3rFXTMclmw=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$Base64.class
+SHA1-Digest: 3E2mlIbowt9+kB8/+F+7ehg6dvI=
+
+Name: sapjco3/com/sap/conn/jco/JCoDestination.class
+SHA1-Digest: AS5RXr6/kEHagglVi59Lo+OQNjQ=
+
+Name: sapjco3/com/sap/tc/logging/reader/FileReadLog.class
+SHA1-Digest: 4wJwU7ron85QyXWitWnaaUqhooo=
+
+Name: sapjco3/com/sap/conn/jco/ext/ServerDataEventListener.class
+SHA1-Digest: /5Zx1FGqVj6jlqjTX+mDWoT12iw=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerSecurityHandler.class
+SHA1-Digest: +KZr4HDlnPDa6krrTHwsGsjDe2c=
+
+Name: sapjco3/com/sap/conn/jco/rt/ClientConnection.class
+SHA1-Digest: Na+M8HQTjZMWl6V6CEuEONsK6AE=
+
+Name: sapjco3/com/sap/conn/jco/JCoRequestUnit.class
+SHA1-Digest: 7oQ4jq0rRlyNBPRdWJ41Xx5GQkc=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IFilter.class
+SHA1-Digest: 5yXZpA2f/rkfgCgjJSqhkFIVvu0=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerRequestHandlerFactory.class
+SHA1-Digest: Ov6GKg/b15JaGXs4V28O5t+YOBE=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonFunctionTemplateWriter.class
+SHA1-Digest: LhiBLzFQpHWFVZyNz4jv1bwg21U=
+
+Name: sapjco3/com/sap/tc/logging/MessageDelimiterBuilder.class
+SHA1-Digest: 7S+kMfogK3y4TkpbybFmegC1VsQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractServerManager.class
+SHA1-Digest: QbGg0+D1n+GNpWipGT3MzLjhjkE=
+
+Name: sapjco3/com/sap/conn/rfc/engine/DefaultRfcRuntime.class
+SHA1-Digest: Sm9YnBJ8tn9smaKswWoKU53/Iv4=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/CmdOption.class
+SHA1-Digest: rbPPu3nbyPV15TLB4s2HRGnj0bA=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/OpenException.class
+SHA1-Digest: +1d51wE4E6p1RTiOE88OnyV08w8=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$JavaRfcConnection.class
+SHA1-Digest: Lx4TTojnqGsqZWHIEwwBTYj9m8M=
+
+Name: sapjco3/com/sap/tc/logging/FileLog.class
+SHA1-Digest: RHLXd019e7s53iW/xPxbdLR6DN8=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$1.class
+SHA1-Digest: I1OxWa8r3Y+qrOb7mDSPwVs+MQs=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$BgRfcCallContext.class
+SHA1-Digest: v+yfmC0JWE8q4Z1rj87oNCyE0rk=
+
+Name: sapjco3/com/sap/conn/jco/util/BasXMLOutputStream.class
+SHA1-Digest: GwMU8UP8N3RYW8EgIVB9pCQxM6k=
+
+Name: sapjco3/com/sap/tc/logging/TraceFormatter.class
+SHA1-Digest: clI1Q47XUxTupPBSGIuegpdkS7g=
+
+Name: sapjco3/com/sap/conn/rfc/api/IRfcComplexParameter.class
+SHA1-Digest: M1PReFfCjdL2GBrJxakAs0eU0eQ=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit.class
+SHA1-Digest: nyHZkrxfBL4i9ox5RFI5/avEvyw=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRecordMetaData.class
+SHA1-Digest: RCe3w1nTEGAitQqNBO3nMKJ92bE=
+
+Name: sapjco3/com/sap/conn/jco/util/Jarm$Monitor.class
+SHA1-Digest: j2oa5DeNh0H7s1ZW50X6/YcapBs=
+
+Name: sapjco3/com/sap/tc/logging/FileLog$1FileOpenAction.class
+SHA1-Digest: 1MwJqhxqwUm1qlm94JVRZFnJbAw=
+
+Name: sapjco3/com/sap/conn/jco/JCoParameterField.class
+SHA1-Digest: yX/H2Qu0yiy/cJ9eBc+kiP6EKQ4=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoRuntime.class
+SHA1-Digest: sHlViCVUbQKiWoFiXbgyA/LzSxo=
+
+Name: sapjco3/com/sap/tc/logging/CreateLogfileEvent.class
+SHA1-Digest: S5xNCaELeHd/Hx6RwzFJfFM7mPI=
+
+Name: sapjco3/com/sap/conn/jco/rt/ClientDestinationState.class
+SHA1-Digest: O6XI8waJXcXO4wYEb7Hy69/kPhk=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$CallContext.class
+SHA1-Digest: kCJAURM0ebFUMUcn8E9vrex+8V8=
+
+Name: sapjco3/com/sap/conn/jco/ext/SessionException$Type.class
+SHA1-Digest: Y4+kWOvVJiWSOx2IM6DMHPAld30=
+
+Name: sapjco3/com/sap/tc/logging/LogInfoData.class
+SHA1-Digest: lMDMtmFjyCMWnr96ddJ212mJ0J4=
+
+Name: sapjco3/com/sap/tc/logging/Filter.class
+SHA1-Digest: ootDvh2JEkBhPO+5ng3u8gx/MFc=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer.class
+SHA1-Digest: VndhCVubFfN0LjSkmn+n5QjYg3M=
+
+Name: sapjco3/com/sap/conn/jco/rt/Context$DestinationEntry.class
+SHA1-Digest: Pm1BEWLugfSeYka5S/WWBQTrwrI=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcClientConnectionState.class
+SHA1-Digest: QXosx6agqri6V8zVFHU5ZIpTLA0=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultResponse.class
+SHA1-Digest: C97oX6n60au7hj6HHYIumTaHblY=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$LZTableOutputStream.class
+SHA1-Digest: 8f64DLL8atVAbmLUORXph/ZpEj8=
+
+Name: sapjco3/com/sap/tc/logging/tools/monitor/ConfigurationMonitor.class
+SHA1-Digest: i+1xWO6/2T7JMK0mWtrXZY3xWFQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionAttributes$AttributesProvider.clas
+ s
+SHA1-Digest: dciPtlrAYwiNI4RJULeSPRQAbHI=
+
+Name: sapjco3/com/sap/tc/logging/UID$ThreadLocalInfo.class
+SHA1-Digest: lsyLExjF758DwuyMvr+Kn0HteGI=
+
+Name: sapjco3/com/sap/i18n/cp/StrUtilTImpl.class
+SHA1-Digest: iuk/ngZ7bRn4CmuALIWoUkl+iho=
+
+Name: sapjco3/com/sap/conn/jco/util/Language$MapEntry.class
+SHA1-Digest: zu8UVzzW7zKAany6rjI1huGgUDE=
+
+Name: sapjco3/com/sap/tc/logging/reader/LocalBuffer.class
+SHA1-Digest: 56/m/6AxK0oYQGDn0RV6YikAS5A=
+
+Name: sapjco3/com/sap/tc/logging/UnsupportedFormatException.class
+SHA1-Digest: RU5OtBayrTSPlrD5wqoj5mLvANA=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSystemCpToCTImpl.class
+SHA1-Digest: 7/JsoUld9mvC07OMIRrKuPcpr6A=
+
+Name: sapjco3/com/sap/conn/jco/support/TidEntry.class
+SHA1-Digest: OP1Z1e5uRiCneZwOt3VlEzk8jLA=
+
+Name: sapjco3/com/sap/conn/jco/rt/ServerFactory.class
+SHA1-Digest: 3igkoo+CrKB5Cco/V6GknUc/6Vc=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$ServerGroup.class
+SHA1-Digest: gu1k3IQAnZHeN4+NxMIsPEYS4jo=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRequestResponse.class
+SHA1-Digest: vTBhZB8eYuuyFTNN4jViYuH6ut4=
+
+Name: sapjco3/com/sap/conn/jco/util/LongList.class
+SHA1-Digest: OzVHeh3Yk5UQGauKBwcP9IDnQn0=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUtf82Uc.class
+SHA1-Digest: V9ZPfuFnWNUFZ6/UGq0zuLMxYy4=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$ClassVal.class
+SHA1-Digest: WMRuPwkL6fH6X9GtQo3ZQOf5/co=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcIoControl.class
+SHA1-Digest: 88LUEfUltloIblbnlGJZQOMemRg=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$ConfigurationState.class
+SHA1-Digest: ExCFC2NV7OoU8sdwZGDTOrokjM4=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToCTImpl.class
+SHA1-Digest: 8boO+gA463/83YuuSIrsULZ4YiQ=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcException.class
+SHA1-Digest: 2VPVpzWF5G7/bt67qMpL7xbHTZk=
+
+Name: sapjco3/com/sap/tc/logging/EventListener.class
+SHA1-Digest: 383ygW32ICaakbHhHq9g+9pOJB8=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/ExceptionLogger.class
+SHA1-Digest: cmfPRJYN4sfMMV0kjP7eCKej2Ww=
+
+Name: sapjco3/com/sap/tc/logging/Group.class
+SHA1-Digest: DZz0JZVKxuL6hp1AYKyF83AjGYg=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcTest$ClientTestConfig.class
+SHA1-Digest: gft1pL3dZa3ObhJ9ojagm+RkK2o=
+
+Name: sapjco3/com/sap/tc/logging/LoggingManager$1.class
+SHA1-Digest: 6nYbD9IMPFpP9ARSAsdJRWHqyv4=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLParser$1.class
+SHA1-Digest: fZUIBNqPimUAqIDwNVYaAreWDDI=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/ILog.class
+SHA1-Digest: s2N9mYej/ALFFZaxH8UzXuT2l6Q=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$AbapRepositoryMonitor.class
+SHA1-Digest: xGxU/Da9hducovyssZjTEe9vJFA=
+
+Name: sapjco3/com/sap/conn/jco/JCoParameterFieldIterator.class
+SHA1-Digest: aPL7DOLf4d4PsucJnAOWDNBSVKU=
+
+Name: sapjco3/com/sap/conn/jco/rt/StandaloneServerFactory$CompareResult.class
+SHA1-Digest: LcLen0mdbptwrN0hedMx98uXgwU=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$Key.class
+SHA1-Digest: srN3RgJlM/8/KqrFfhVJru9x8LU=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertUc2LE.class
+SHA1-Digest: gLq79irjDuqDYbed3b4HJijQ0f0=
+
+Name: sapjco3/com/sap/conn/jco/ext/DataProviderException$Reason.class
+SHA1-Digest: RZENCldNjodGRB/lStnr68iuu9c=
+
+Name: sapjco3/com/sap/i18n/cp/CheckCharsetOfStringTImpl.class
+SHA1-Digest: Xme0mjsbXenYzz8DzdvqgROj54I=
+
+Name: sapjco3/com/sap/conn/jco/rt/DynamicRecordMetaData.class
+SHA1-Digest: JKlpYwH5bilo1SYvIlYHfTgiyvI=
+
+Name: sapjco3/com/sap/conn/jco/rt/ComplexParameter.class
+SHA1-Digest: R7iTaUgXWeFMQmwkZM8CjGsgkaM=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRecordFieldIterator.class
+SHA1-Digest: zbgIzyEVow2dZPDAl2fKR9HxpvQ=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcTypePlayback.class
+SHA1-Digest: gOXgbpv/RxaC8cHIJAbufTUq8MI=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$LogEntry.class
+SHA1-Digest: MkFT8BofqqwH6/5qQ2JxSJFEcME=
+
+Name: sapjco3/com/sap/conn/jco/ext/DefaultSessionReferenceProvider$ScopeSessio
+ nReference.class
+SHA1-Digest: BrGQPwIX4HBBiL78AJ9fOFJ4RHg=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/Version.class
+SHA1-Digest: IcfmHkjGr65SAbuFl4hb+aOYoiE=
+
+Name: sapjco3/com/sap/conn/jco/rt/NestedStructure.class
+SHA1-Digest: lJB9lOZ5IhTIXummw4VYer1WoNo=
+
+Name: sapjco3/com/sap/tc/logging/NewLogEvent.class
+SHA1-Digest: PiUHfQuQxMxArkcDQ2A/NbGgHGs=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs.class
+SHA1-Digest: F04V8SODKMkFyGft8QTD6dH73nE=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRequestUnit.class
+SHA1-Digest: Wtt+w6WE6Db07g6SR/4WP2N1DbQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLWriter.class
+SHA1-Digest: HKSNLVPpQ0RIUnRQB6gmTLVFV1E=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonStructureWriter.class
+SHA1-Digest: QpWm0owo4xLn8GnkctshOi2xfHE=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapFunction.class
+SHA1-Digest: TojxT8sj0i9ZQF1a+OcNC10We8o=
+
+Name: sapjco3/com/sap/conn/jco/util/ObjectList.class
+SHA1-Digest: FVpng3tLAy8JnM+XrbNGwiQ9R9E=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcCustomDestination.class
+SHA1-Digest: nD1obAIfyA7qRnSumGau6DETMkY=
+
+Name: sapjco3/com/sap/conn/rfc/engine/PasswordState.class
+SHA1-Digest: 5sCZzY1r+yPTdtzqTCjayJenb7k=
+
+Name: sapjco3/com/sap/conn/jco/ext/ClientPassportManager.class
+SHA1-Digest: nG2w7D9s25vkP9X+zotPiBl6Bq4=
+
+Name: sapjco3/com/sap/conn/jco/ext/DefaultSessionReferenceProvider$SessionRefe
+ rence.class
+SHA1-Digest: rXvB86wiSIYPtdT6qzbF64yjIkY=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker.class
+SHA1-Digest: yxk+zQqcCvqYZrbmhmKp92JIcuw=
+
+Name: sapjco3/com/sap/conn/jco/rt/MetaDataStorage.class
+SHA1-Digest: 3c2OD/sJ50UVk+j/BrvGiGBoXx8=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcTypeDirectCpic.class
+SHA1-Digest: fMQeNZY0I2y5oi0IZjaF35rUxh4=
+
+Name: sapjco3/com/sap/conn/jco/support/AbortException.class
+SHA1-Digest: imGmGRhFL1aoEKcjlpC10jUoXG8=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Trc$2.class
+SHA1-Digest: WLXzsKXVVTUSXEVxyD+9HugUlgU=
+
+Name: sapjco3/com/sap/conn/jco/rt/CustomRepository$1.class
+SHA1-Digest: nXGA6FYBfmLT5+rzrgXbJQ98n7Q=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$CallDispatcher.class
+SHA1-Digest: fOLRV/x6OpanDBSx1fURQGM/SHQ=
+
+Name: sapjco3/com/sap/tc/logging/FileLogInfoData.class
+SHA1-Digest: lIcN5zyl5rF3wyNk10C0F3H71FQ=
+
+Name: sapjco3/com/sap/conn/rfc/data/LZTable.class
+SHA1-Digest: wMNzMHQ1NADlEFTOcAbnkoB3T44=
+
+Name: sapjco3/com/sap/conn/jco/JCoFunctionTemplate.class
+SHA1-Digest: /GpClIyrpojK1Bfy2u1deIV207Q=
+
+Name: sapjco3/com/sap/tc/logging/reader/ReadLog.class
+SHA1-Digest: vOoJDZzawSmThciM3D5OVpK2c6U=
+
+Name: sapjco3/com/sap/conn/jco/util/Codepage$CPMap.class
+SHA1-Digest: /p0Va1hT8wek3ZIJolVblNzpGTo=
+
+Name: sapjco3/com/sap/tc/logging/StreamLog.class
+SHA1-Digest: SGLvTHfYke4nougXt0gBpyfc/6I=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcTraceWriter$1.class
+SHA1-Digest: 5cfZ/SqI7Urxn7ucOzHDnkW5Pu0=
+
+Name: sapjco3/com/sap/tc/logging/MessageEventListener.class
+SHA1-Digest: jgdqdc+YQ0TL3yEqmLsNDNlvXdQ=
+
+Name: sapjco3/com/sap/conn/jco/AbapClassException.class
+SHA1-Digest: 1s+Owd/qe1Dta2QIBJ+8xPT+8Ss=
+
+Name: sapjco3/com/sap/conn/jco/rt/RfcDestination.class
+SHA1-Digest: PlO+s1G8SigJDXZ+LUd6LROvsDs=
+
+Name: sapjco3/com/sap/tc/logging/UID.class
+SHA1-Digest: WDZhV/At35X5xSq7Lqlb07ffeFY=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerCallHandlerFactory.class
+SHA1-Digest: f1PSDiZr2nryLb/yk0tWLBmBKNQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$JCoRepositoryMapBox.class
+SHA1-Digest: dbveom8SrWEB7Y4FUh20vtDH9Go=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/FunctionCacheIterator.class
+SHA1-Digest: 3tx+o2DFTaBWOOSKL+quIu+gWNc=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRemoteContext.class
+SHA1-Digest: V0dg+PeCaGnD3btD0GlUD9kl5K8=
+
+Name: sapjco3/com/sap/conn/jco/ext/DataProviderException.class
+SHA1-Digest: uw6GRFVpbSXuuF4bhl93ee/0xjg=
+
+Name: sapjco3/com/sap/tc/logging/LoggingManager.class
+SHA1-Digest: 1SS1ZgxshOYb16hrPNCHz25Cqvg=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonContainerWriter.class
+SHA1-Digest: ujomiLDCgVG30HASw9zz99IahTs=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$QueryClassHierarchy.class
+SHA1-Digest: Vjh/wLGLa0YW5zBic8ePlymzE5I=
+
+Name: sapjco3/com/sap/tc/logging/messagedepot/impl/MessageAccessorImpl.class
+SHA1-Digest: MUu6w2ZStsIKdmYAeoAprzdC0JU=
+
+Name: sapjco3/com/sap/conn/jco/ext/DestinationDataEventListener.class
+SHA1-Digest: egA8BwC1v0oPhVN5MCMDYPQ9bxo=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultParameterField.class
+SHA1-Digest: IWddTT2CFx5Ov8kGvTxEFGGVBYc=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$MD5.class
+SHA1-Digest: CesMtTADha4ngJE7gRxpCIZmJAA=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultJCoRuntime$1.class
+SHA1-Digest: SZ5AVN8hg9vPXuqmxyqnkyiIqRA=
+
+Name: sapjco3/com/sap/conn/jco/util/JCoTraceWriter.class
+SHA1-Digest: T+Kd8FdPDIMeKnliIRpl5OMMGqM=
+
+Name: sapjco3/com/sap/tc/logging/perf/SatRecord.class
+SHA1-Digest: vwD+4Wf2lp/5eDZ9Ax4AbL/aWJM=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$DispatchException.class
+SHA1-Digest: cj2djXPx52UU6HeqgzSmll9YHJ4=
+
+Name: sapjco3/com/sap/conn/jco/support/TidManager.class
+SHA1-Digest: ILalrO4UoUADsXcCSuoQaRXvIdI=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IDeployRuntimeInfoProvider.class
+SHA1-Digest: 2x6HACY/5tHfVdropBKhBphB6ok=
+
+Name: sapjco3/com/sap/tc/logging/LogController$1.class
+SHA1-Digest: tzeBu8BqB49aeVyxoCxT80fFtXk=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IThreadRuntimeInfoProvider.class
+SHA1-Digest: GFl2CorJDtjB/Ex6S6hrTEDzYsg=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit$2.class
+SHA1-Digest: 22oZe1sYnfQDIKCD5A3uyiM8iYo=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IMessageDelimiterBuilder.class
+SHA1-Digest: c3Cs6QfHLJKE92OQJTuWc5hsFkk=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultFieldIterator.class
+SHA1-Digest: kCD7n4jymKvcAVZAIoOCj/Dlg2E=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLParser$Reference.class
+SHA1-Digest: qMbE/O+G2FVc9oMTMJePuDP2syU=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$2.class
+SHA1-Digest: 8+dtqLyNE97wjqXDkL/nvNkhwYE=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$Dispatcher.class
+SHA1-Digest: 8m/q2pO9G28JZHVYWHnTQWEGwHo=
+
+Name: sapjco3/com/sap/conn/jco/JCoInterface.class
+SHA1-Digest: pq9+8RpGuFQRk8kRmAeTrllryfw=
+
+Name: sapjco3/com/sap/tc/logging/reader/ReadableLog.class
+SHA1-Digest: HVhh/8K8/at+UQwt3gjh1c/XZl8=
+
+Name: sapjco3/com/sap/tc/logging/ExceptionManager.class
+SHA1-Digest: EAt88P14fWyY8ludPWSMR/Tu/Tc=
+
+Name: sapjco3/com/sap/conn/jco/OutOfNativeMemoryError.class
+SHA1-Digest: AAyO4Lphmg6ARXMwoUuydTjDL2Y=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IRPRecord.class
+SHA1-Digest: ndyB5NqF1ji0HnVvjOJ52nBf3FE=
+
+Name: sapjco3/com/sap/tc/logging/ReleaseLogListener.class
+SHA1-Digest: q0ok8pne6FEJCIEQAwCrazucFOQ=
+
+Name: sapjco3/com/sap/conn/jco/JCoUnitIdentifier.class
+SHA1-Digest: +nly94kZSmSZPBMztExMN0fncZQ=
+
+Name: sapjco3/com/sap/conn/rfc/api/IRfcTable$DeltaState.class
+SHA1-Digest: wQLTtLEtXw85Fa0ljrDxjWWBvY8=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultTable.class
+SHA1-Digest: MXn6rcNqQIzjC4HoqhJrmEpFwTE=
+
+Name: sapjco3/com/sap/conn/rfc/engine/BgRfcUnit$UnitSerializer.class
+SHA1-Digest: PSdWIGjxP9PQcYUePB5r81LX/l8=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServer.class
+SHA1-Digest: CwqU23m29Q7PswzfAMxwIOGFwRg=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$ServerContext.class
+SHA1-Digest: TdyJWE4wXBgf+9jJ/NspZnU+glc=
+
+Name: sapjco3/com/sap/conn/rfc/engine/TableDeltaLogEntry.class
+SHA1-Digest: dQy4VwnGKM30Y7JZ5B27pheOJ9o=
+
+Name: sapjco3/com/sap/conn/jco/JCoBackgroundUnitAttributes.class
+SHA1-Digest: P170gjXqiwFyCHhhNYPSAkbghl4=
+
+Name: sapjco3/com/sap/conn/jco/JCo.class
+SHA1-Digest: hRDZXuxT7ZN+C/W6XinwUga0R68=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerFunctionHandlerFactory.class
+SHA1-Digest: UMnt76CkVGFxipHmzULugDjYOLg=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultParameterList.class
+SHA1-Digest: WQgqFQM72BSlGLls6tE1QAAcf6Q=
+
+Name: sapjco3/com/sap/conn/jco/JCoCustomRepository.class
+SHA1-Digest: +LHx0W/uwjQlcpaKosbUjet3Gd4=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileServerDataProvider.class
+SHA1-Digest: u9QbuUjfkTIve22eHJP6lNhztP8=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcRcv.class
+SHA1-Digest: OC3M1zpg0RemqggyJ9IrMHdwee0=
+
+Name: sapjco3/com/sap/conn/jco/JCoResponse.class
+SHA1-Digest: ic6nP+7QfWjhziVBtl48L92Uli4=
+
+Name: sapjco3/com/sap/conn/jco/JCoRecord.class
+SHA1-Digest: 9KmHi1rioWwIM5feNXyxfA9ZtlU=
+
+Name: sapjco3/com/sap/conn/jco/util/AboutDialog$Section.class
+SHA1-Digest: kDMVvAzLPlPxMCgXSLwWc05iK/M=
+
+Name: sapjco3/com/sap/conn/jco/rt/Context.class
+SHA1-Digest: b+A3v5XOyDqoBcu/dXEv+8X+0q0=
+
+Name: sapjco3/com/sap/tc/logging/MSGCollection.class
+SHA1-Digest: CS0ZXf8+/XHcmH0PiosxuDcbWE0=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/BufferDataException.class
+SHA1-Digest: XSMn8nyaejZF4v2c3Gp63VXrsro=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$RequestQueue.class
+SHA1-Digest: 7fA+X8t/F2YcXQQd51ErKP5XhXQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$Connection.class
+SHA1-Digest: 26zoHsgCYhwGx97oTJeOgewQs98=
+
+Name: sapjco3/com/sap/conn/jco/JCoException.class
+SHA1-Digest: ZSlQ2DA+7ywQg79YAZgez1znysM=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerCallType.class
+SHA1-Digest: u60SYQ96hoU3TTFxb17g75yCEtc=
+
+Name: sapjco3/com/sap/i18n/decfloat/DecFloatTImpl.class
+SHA1-Digest: 5ywRayyyjsBFmLtST/s2rQDxp+M=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider$BufferRe
+ gion.class
+SHA1-Digest: koN9pmLKKpjIJf3SIYuV1RoM92w=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$4.class
+SHA1-Digest: Xr9Enpvemq9PL+Qy6yf9EOIPzeg=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcSystemInfo.class
+SHA1-Digest: rGWbOd6U1xfXhsa7jLMcMdMVXg8=
+
+Name: sapjco3/com/sap/conn/rfc/api/GatewayRegInfo.class
+SHA1-Digest: PA2htoqaG73NMKAUEo5Hl0YlU6g=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultRemoteContext$Stack.class
+SHA1-Digest: m+Itj+6SUaq0mhU4Ou8cuHfq7Bo=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToXFactory$ShortcutUc2Sb.class
+SHA1-Digest: 2/+TyoyiBRLMThwcdkuskCTkWlA=
+
+Name: sapjco3/com/sap/conn/rfc/data/DocuTable.class
+SHA1-Digest: ZsfS3KErFiOPjOjsVB6V1xlDoEk=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$RepositoryLoadResult.class
+SHA1-Digest: jQddyQcv0hmoEHSOKAHvNtyJeII=
+
+Name: sapjco3/com/sap/conn/jco/JCoField.class
+SHA1-Digest: xh0XOsHeksThchRGG6ru+rGZ9hA=
+
+Name: sapjco3/com/sap/tc/logging/perf/PerfFormatter.class
+SHA1-Digest: IW8uq9UOqUn85Jcz4+4PeUy7EVI=
+
+Name: sapjco3/com/sap/conn/jco/About.class
+SHA1-Digest: pHC32WOTHgZ53kSnj2M3O6nRtQg=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSystemCpToC7bOnly.class
+SHA1-Digest: svwTSq3vZ8AfH1LM+26M7bjbtOk=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultJCoRuntime.class
+SHA1-Digest: ob82VRPkiJpR+izI2Kp4Rzt8mLE=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository.class
+SHA1-Digest: nAoZ0+C+FVUCY5HTIzV9To6W5bk=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$MD5$1.class
+SHA1-Digest: dQfI3C6jizgVkwY8oV/bTsI+tL4=
+
+Name: sapjco3/com/sap/conn/jco/JCoCustomRepository$QueryMode.class
+SHA1-Digest: MW9Wuq1zQW1vAvxdAOeI6xXleXc=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IObjectInfo.class
+SHA1-Digest: JOnrJn+m4h78a9e9AALXeZpngEw=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonTableReader.class
+SHA1-Digest: CVH9mFRzKlUqqxXFP3TUDylEdoc=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVException.class
+SHA1-Digest: ppxuRE+27AChb1mf5INGzb6fcRI=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcIoException.class
+SHA1-Digest: gdOq2ptqY+rz/kIUIMb6bV0B0Cs=
+
+Name: sapjco3/com/sap/tc/logging/LoggingUtilities.class
+SHA1-Digest: ZNKbWV0pDYF2tcW5noX9hwipnuo=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToXTImpl.class
+SHA1-Digest: I/tXW9oBeJ4fVwoIE0Jos4I7Lp4=
+
+Name: sapjco3/com/sap/conn/rfc/driver/RfcTypeRecorder.class
+SHA1-Digest: EzFZlo44LAOGA3HwnH+4lgHQWdA=
+
+Name: sapjco3/com/sap/tc/logging/LogController$Relations.class
+SHA1-Digest: ZVJMl98MtpGjwaW7GtA6qd6KyJA=
+
+Name: sapjco3/com/sap/tc/logging/MsgObject.class
+SHA1-Digest: ghtxAtD1TPDF2DKj5Fa6j9HTINI=
+
+Name: sapjco3/com/sap/conn/rfc/data/RfcIntParameter.class
+SHA1-Digest: aaUrlOBSn+iROJ6T7f2a5tQynjE=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServer$MappingRuleParser.class
+SHA1-Digest: 6CTm2K5xnFW06fzR3KJJWsLUG2Q=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$TableInputStream.class
+SHA1-Digest: RW974LD4yTGu7j6ECPN5C+UqzqE=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$TableOutputStream.class
+SHA1-Digest: iKA64r15pNaGHFre573svNx8fYw=
+
+Name: sapjco3/com/sap/tc/logging/TokenType.class
+SHA1-Digest: b/voAjYiPh8+pzAwIxFlTGnHBsQ=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$AES$2.class
+SHA1-Digest: WbG90xaLSeDwFbREV76zWuACbjw=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerExceptionListener.class
+SHA1-Digest: ZJjsuMfSc60UZCmRwtT6q44vUjc=
+
+Name: sapjco3/com/sap/conn/jco/util/FastStringBuffer.class
+SHA1-Digest: ge+Ct5xfCZokZAuh9n9fXoSOW7Q=
+
+Name: sapjco3/com/sap/i18n/cp/StrUtil.class
+SHA1-Digest: dQ72aCQjJVA1kTyPfTG2dAok5ig=
+
+Name: sapjco3/com/sap/conn/jco/util/LimitedList.class
+SHA1-Digest: Xoe8dEUvcSrspghjNH9Te3+FmuI=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcConnectionState.class
+SHA1-Digest: 0dh/3Idmav8HkIwE4WFYCriAL2U=
+
+Name: sapjco3/com/sap/tc/logging/interfaces/IMessageBuilder.class
+SHA1-Digest: abSYgCsfSraLfyTvQtk6uMANH3k=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$StreamException.class
+SHA1-Digest: ER1Oiz803rHJutED4BT8c6vOykY=
+
+Name: sapjco3/com/sap/tc/logging/reader/ReaderLogger.class
+SHA1-Digest: m8z9TQXi5bXpFMVfv0UZfxhStWU=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$SeverityVal.class
+SHA1-Digest: c3SRMvBbp2ZbTOUroKdjInx23dA=
+
+Name: sapjco3/com/sap/conn/jco/monitor/JCoRepositoryMonitor.class
+SHA1-Digest: Gr3aDbkh501158D5dYh9MUOme0A=
+
+Name: sapjco3/com/sap/conn/jco/rt/MonitoredConnectionData.class
+SHA1-Digest: TcGl4fd4iwgs4SJ+ca11/3aIUcE=
+
+Name: sapjco3/com/sap/conn/rfc/engine/DefaultRfcTraceWriter.class
+SHA1-Digest: d7CM7pvlnNH7Dvg4OenWY7ZLLh0=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord$6.class
+SHA1-Digest: AyJ8V0qfmJzNkGVYeRzkBAumHYI=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$Client.class
+SHA1-Digest: YZU/hyqtCe86AtTTZXltifhH85s=
+
+Name: sapjco3/com/sap/conn/jco/AbapException.class
+SHA1-Digest: CzCnkbjNJCRVZAv5ANE41srW1GY=
+
+Name: sapjco3/com/sap/tc/logging/ResetLogControllerListener.class
+SHA1-Digest: wYJGin82z5THd6HUw8Ln+hBp6ho=
+
+Name: sapjco3/com/sap/conn/jco/JCoClassMetaData$JCoAttributeKind.class
+SHA1-Digest: r9SSgHl/H8S8iNZITQfS+KXVOAk=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionManager.class
+SHA1-Digest: bUYw9dRJOh1mYlQS0T53B9zyU18=
+
+Name: sapjco3/com/sap/conn/jco/util/XRfcOutputStream.class
+SHA1-Digest: 2GS+NWzeD+mhaZhp4KfP1Dv+EnI=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerAuthorizationData.class
+SHA1-Digest: ttmXM6b4ubuLT5RqkOcocwQwwNU=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$ObjectVal.class
+SHA1-Digest: aYLbGrv7M7f+eHSyT106aH4oqk8=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$1.class
+SHA1-Digest: ePM40clBIMryXUGGuPu9rsAzNyw=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerRunnable.class
+SHA1-Digest: mdDX9ldlQ+Nk60wNicda5XeB8/A=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcServ.class
+SHA1-Digest: I9pgHsJnD3lC+i61MFO+SwVZtb0=
+
+Name: sapjco3/com/sap/conn/jco/ext/ServerDataProvider.class
+SHA1-Digest: J0wi15Bfs+zQIMi6At1KycvgVQo=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertDb2Uc.class
+SHA1-Digest: P8uyVLxfhBem0QHbgSJiqgmE8XM=
+
+Name: sapjco3/com/sap/i18n/cp/CheckCharsetOfString$LangFilter.class
+SHA1-Digest: QkMl7fWYIuuB0zv5kO/Qi7BYdJQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/FlatStructure.class
+SHA1-Digest: OJOhRMfJtUi4GSns6ZKqVuMrWIY=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$RepositoryLoadResult$ElementT
+ ype.class
+SHA1-Digest: 2ITn1hppoY1ZZMrtkDkhnqb34Ws=
+
+Name: sapjco3/com/sap/tc/logging/APILogger.class
+SHA1-Digest: 2oiBEx0A+zQ0HCwnRLsPVdD4AoQ=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcRuntime.class
+SHA1-Digest: 9dZoPnQvCW5fxw8PutDkDraR71Q=
+
+Name: sapjco3/com/sap/tc/logging/GUId.class
+SHA1-Digest: UsWYjSuOOb/Bopcrs/+95zGbwRo=
+
+Name: sapjco3/com/sap/tc/logging/messagedepot/LocalizedMessage.class
+SHA1-Digest: 0443H5KN3D3UZX5gWMBT9xY8/T0=
+
+Name: sapjco3/com/sap/conn/rfc/api/RfcOptions.class
+SHA1-Digest: wIa5P1norK2EbtuOgwCyOloJFmY=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager$ServerController.class
+SHA1-Digest: NLlZRa0bk+n+EuSvgYozoIFGbpU=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertArrException.class
+SHA1-Digest: Idv0fF+QQR6cRLNpAUH+gOJBzMc=
+
+Name: sapjco3/com/sap/tc/logging/EventDispatcherFactory.class
+SHA1-Digest: 7UlVnpAUni4OawulCF50Y2sEUpg=
+
+Name: sapjco3/com/sap/conn/jco/JCoTraceListener.class
+SHA1-Digest: zJ906BOSQEKy6idqd/UVNQvwZjQ=
+
+Name: sapjco3/com/sap/tc/logging/Event.class
+SHA1-Digest: LtTHyKZEK2g6OqPAXS5vXjkMpxU=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetImp.class
+SHA1-Digest: x2T+xEd6sOM7BIw6to+qpyeCbuI=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$AES.class
+SHA1-Digest: PmbmWdueVD4q7ErbaWEcoDV4a6s=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$LogControllerEntry.cla
+ ss
+SHA1-Digest: jM1hmYwZOkYPSHT+QBzvbYEur20=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RFCID.class
+SHA1-Digest: CgcWIYuSpwFl3zdMoZsEbb+fXb8=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Compress.class
+SHA1-Digest: RxjaUjpmxj0mXwAj2d1V4gze25k=
+
+Name: sapjco3/com/sap/conn/jco/ext/DestinationDataProvider.class
+SHA1-Digest: sDnULPzZoPSed9RVaqS2BPoc1Ow=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerState.class
+SHA1-Digest: KO2cP/eYv1/xMJ2sysJepHmBpuA=
+
+Name: sapjco3/com/sap/conn/jco/support/JRfcServ$MyThrowableListener.class
+SHA1-Digest: nz4tgX5Vaa2tCyH8Z0R6Z71mexo=
+
+Name: sapjco3/com/sap/conn/jco/JCoTable.class
+SHA1-Digest: cl27LbxolAkoHVHfklYBEwg0mkE=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$FunctionDispatcher.class
+SHA1-Digest: iMFf0Ex8oLQm1kIMbb5w3foTH7A=
+
+Name: sapjco3/com/sap/conn/jco/rt/ClientFactory.class
+SHA1-Digest: kTRuuBrMjQcdlKmWmUu6tT3ilp0=
+
+Name: sapjco3/com/sap/conn/jco/ext/SessionException.class
+SHA1-Digest: XpgmR66UcoItcvhxwd4cIAMpmJM=
+
+Name: sapjco3/com/sap/conn/jco/JCoCustomDestination.class
+SHA1-Digest: N5OLdltQzFiCrKyyYIgq5v4MBws=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertBE2Uc.class
+SHA1-Digest: g6OOt6mkzgbHPY7RMuNGtwHXZ3E=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerTIDHandler.class
+SHA1-Digest: gLyS5TgrBiOV5FVjCut7nK10+sU=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVReader$LVFileFilter.class
+SHA1-Digest: m5nW3oIlz1XRw0EmrmRufZVZ+ao=
+
+Name: sapjco3/com/sap/conn/jco/rt/MetaDataStorage$StoreKeeperLockingStorage.cl
+ ass
+SHA1-Digest: LYOWSbbzSzAWPUMvWTP/wD1hTz4=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$ObjectsVal.class
+SHA1-Digest: tBfAVDf0VZNYNTGESNykoqcqssI=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbstractRecord.class
+SHA1-Digest: 5TKVZeGzTvPeK6E4l87VwSH5+Bg=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcUtilities.class
+SHA1-Digest: 9I+Phrw8qLtvs1CIqxSE65mNDz0=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcCreateTID$1.class
+SHA1-Digest: 4W87slQLNDs+l9GYqge8B0btFgY=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider$1.class
+SHA1-Digest: xODKmT1w5V0rZcnwfqPYEM87I+0=
+
+Name: sapjco3/com/sap/i18n/cp/ConverterRuntimeException.class
+SHA1-Digest: UmpCOiR8rE14CwbTSOOPiVCTpIs=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonFunctionTemplateReader$1.class
+SHA1-Digest: G1n0DPOYPHXLSL8WuY6YBFyceuA=
+
+Name: sapjco3/com/sap/conn/jco/rt/ClientConnectionState.class
+SHA1-Digest: 25y9yCM+hDYPpiTkKUj3cyw4pt8=
+
+Name: sapjco3/com/sap/conn/jco/util/Language.class
+SHA1-Digest: rY1cRwt8i/H1E+/UuVr8+TkFRKc=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToX.class
+SHA1-Digest: xsBME5HKOBm3bE1HoAJptNOjhPQ=
+
+Name: sapjco3/com/sap/tc/logging/Severity.class
+SHA1-Digest: po1LkL+lKjCOiorxptTvCZpJ3Ao=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/CmdOptionList.class
+SHA1-Digest: 7a6SgcfZtI98G4zrhATnauFcVqk=
+
+Name: sapjco3/com/sap/conn/rfc/sysfunc/RfcCreateTID.class
+SHA1-Digest: INTagqmIPgrDKXERIKyZx0s9VPw=
+
+Name: sapjco3/com/sap/conn/jco/rt/DestinationList.class
+SHA1-Digest: wCw5WkO62xz2VTH2GR8TFWlhWzc=
+
+Name: sapjco3/com/sap/conn/jco/util/IntHashTable.class
+SHA1-Digest: ZBrFM3X6H6pEqnWBs3xEFveD7oM=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultListMetaData.class
+SHA1-Digest: QnyKvO+hKeCT14ixEemaOUIQgic=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultClassMetaData.class
+SHA1-Digest: gtBiCdBj0FA0xAPdZz/eBzSRzus=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoRuntimeFactory.class
+SHA1-Digest: FWJpnbWn9BC8/wTLAHxwn04lRm0=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVOptions.class
+SHA1-Digest: t9iFOpPT3T8itMlzRFkSY4STKeQ=
+
+Name: sapjco3/com/sap/conn/jco/rt/PoolingFactory.class
+SHA1-Digest: lElC/uhnF9Cy7xyHjO/yraLjtsQ=
+
+Name: sapjco3/com/sap/conn/jco/util/TimeZoneUtil.class
+SHA1-Digest: IcAGuDI5bjPkh33XkZCB/VdILO4=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Trc$1.class
+SHA1-Digest: 3h/a2QrGPvA9J1TJ6hMl/lNRwsw=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVFormatPattern.class
+SHA1-Digest: JEPeqq9uAKHUcVdC1eyF8fjBdGc=
+
+Name: sapjco3/com/sap/conn/jco/JCoFunctionUnitState.class
+SHA1-Digest: XWENM+ekBlDQHf5QGNjVjM1IJ8E=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLParser$Mode.class
+SHA1-Digest: tba6AYzAMT32TkLmQ+Ua0ztn6lk=
+
+Name: sapjco3/com/sap/tc/logging/Configurator.class
+SHA1-Digest: uaYPAiya+zlFSJ2Pkh3bLjebXto=
+
+Name: sapjco3/com/sap/conn/jco/JCoRepositoryQueryResult.class
+SHA1-Digest: XcoiWZnuEfY4vZdkdYsLKeeBkh4=
+
+Name: sapjco3/com/sap/conn/jco/ext/Environment.class
+SHA1-Digest: ysX6TSWmD8DCtsObhzpp61j/vyY=
+
+Name: sapjco3/com/sap/conn/jco/rt/About.class
+SHA1-Digest: 99ALgrxhFvuQkzLrJ3pPeVZ/daY=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/CloseException.class
+SHA1-Digest: 5WbvZXfPS8Utcuuv7GOgDHe/pyg=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/StructureCacheIterator.class
+SHA1-Digest: 3CSTHSDQFMr/3T71Hy+f/m5jPfo=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/LoggingBaseException.class
+SHA1-Digest: Ed0rP9JqVTONDKuTJFNp5vwAtGI=
+
+Name: sapjco3/com/sap/tc/logging/Log.class
+SHA1-Digest: hcLGVsETok2u8OHY7WphPGh9/vI=
+
+Name: sapjco3/com/sap/conn/jco/JCoCustomDestination$UserData.class
+SHA1-Digest: v4xH9qEkXqfoZEjPTbz5suoLccU=
+
+Name: sapjco3/com/sap/conn/jco/rt/MiddlewareJavaRfc$JavaRfcDispatcher.class
+SHA1-Digest: ++KxyKzKVuUG+nyE7zgTuGf+jMw=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Trc.class
+SHA1-Digest: JTYcjoWzFdNOiYjMPi9e6IAkJ0Y=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVFormatter.class
+SHA1-Digest: 2grB1zCsTQnkb99d/F9P8kR4o7U=
+
+Name: sapjco3/com/sap/conn/jco/rt/ConnectionMonitor.class
+SHA1-Digest: Y55ZgUUkvKrBa08np4KuKCvQxOg=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLParser$State.class
+SHA1-Digest: l/I31ykQCXaQ4/yDuuoVo010Q0U=
+
+Name: sapjco3/com/sap/tc/logging/ReverseTokenizer$State.class
+SHA1-Digest: +1JeXepICbi/qQixS3Z5dhJEYjc=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertCToXFactory.class
+SHA1-Digest: AV0zzU2UFusF+bPG3flTN7bAwEE=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonClassMetaDataWriter.class
+SHA1-Digest: wtlHwVyt2ap9TPqnJ6P5Xx4lyA8=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/ReadRotatingFilesException.class
+SHA1-Digest: 0v/oa2p/cwK2FNHcBiUdZRW1ecY=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasicRepository.class
+SHA1-Digest: E1c5868IDRu9QWcFqChmaXMkU8Q=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/LVActionConstants.class
+SHA1-Digest: +0G4D3OBqCUdVHbWQVM35XXnqiM=
+
+Name: sapjco3/com/sap/conn/jco/server/JCoServerContextInfo.class
+SHA1-Digest: tbFM9ZepzeLz/zykTgmW3Ddwkjs=
+
+Name: sapjco3/com/sap/conn/rfc/exceptions/RfcIoErrorCode.class
+SHA1-Digest: 3QcgTNzeACOC2Ej1H8vhE+uE/c0=
+
+Name: sapjco3/com/sap/conn/jco/rt/PropertyFileDestinationDataProvider$Properti
+ esInputStream.class
+SHA1-Digest: qzyjPVGaciQGtk2R6obA+4ijMNA=
+
+Name: sapjco3/com/sap/conn/jco/ext/DefaultSessionReferenceProvider.class
+SHA1-Digest: 0qihY7vvK5yUs+hixEuuYr5KUIU=
+
+Name: sapjco3/com/sap/conn/jco/server/DefaultServerHandlerFactory$RequestHandl
+ erFactory.class
+SHA1-Digest: ar4lfGc22NdfQWNCZ19ScfrzEMM=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonClassMetaDataReader.class
+SHA1-Digest: x5VGY/0iIXiUH4HSfCu/X38WOR4=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcImp.class
+SHA1-Digest: npr8wPI0mSdvYlSc+L3h50gvBDg=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToC.class
+SHA1-Digest: ybAY4M1UgJhUwdJZc1c8x0tOm2E=
+
+Name: sapjco3/com/sap/i18n/cp/ConverterJNI.class
+SHA1-Digest: HctyLhOjZiPI92xHQL6HvrsZpTo=
+
+Name: sapjco3/com/sap/conn/jco/util/SharedStorage.class
+SHA1-Digest: JxHexVMxh2J6lZ9RlEpA3gXniCk=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLParser.class
+SHA1-Digest: d8ueYTmjxfGpv8UJUV6W8wYk87c=
+
+Name: sapjco3/com/sap/conn/rfc/engine/Compress$CsOutputStream.class
+SHA1-Digest: a1thrTA9fVXmlbrEyFHlA6N1LNU=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetInfo.class
+SHA1-Digest: TnzDDMvysu3FY1XOyCFoNkK+S+s=
+
+Name: sapjco3/com/sap/conn/rfc/data/RfcChars.class
+SHA1-Digest: W1byY0IoGZFVzzKx8jhnJbMgP/o=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager$DefaultRunnableStarter.
+ class
+SHA1-Digest: DZFnURrIln5Pzf7jfRS5J1QZJYM=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$LogControllerKey.class
+SHA1-Digest: 3gBEG3385NnwQxOWBWjxHQieZWs=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGet.class
+SHA1-Digest: dZaulC2N7vQ8BZtfkYlXalsIhuw=
+
+Name: sapjco3/com/sap/conn/jco/rt/StandaloneServerFactory$1.class
+SHA1-Digest: oI02ZuUKeT5VvdBTQlJjljFfHIM=
+
+Name: sapjco3/com/sap/conn/jco/rt/FileDestinationsDataProvider.class
+SHA1-Digest: JvZmp92gRsDoT02erAt7hsGgZg8=
+
+Name: sapjco3/com/sap/tc/logging/ReverseTokenizer.class
+SHA1-Digest: UM2JO9Q6NXylq8/SSWxR17Djf/o=
+
+Name: sapjco3/com/sap/conn/rfc/data/ItStream$LZHeader.class
+SHA1-Digest: Sud469RFmp5fDK7dLs9vYPWuuaw=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerManager$1.class
+SHA1-Digest: 9UTzV8G92LtFBSqnLdWER5BVTOg=
+
+Name: sapjco3/com/sap/conn/jco/JCoExtendedFieldMetaData.class
+SHA1-Digest: dPjPwgqIrVJgdB5o7hXInyDn9rY=
+
+Name: sapjco3/com/sap/conn/jco/rt/JCoMiddleware$Server.class
+SHA1-Digest: OPfn9vHClteJe0QtFLG+CGTzaB4=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonRepoConsts.class
+SHA1-Digest: /TE1KdmETyicOP/WwyVGcBYX5D0=
+
+Name: sapjco3/com/sap/conn/jco/monitor/JCoDestinationMonitor.class
+SHA1-Digest: p2ClI5j43IzYABeK6qXVpt0OYoE=
+
+Name: sapjco3/com/sap/conn/rfc/driver/CpicDriverState.class
+SHA1-Digest: 23ZHQt5jmvLK6YRF3X23F8ejHPI=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcPlaybackInfo.class
+SHA1-Digest: Yj2MclHC5sV+PGj2rP7tnvq6KZo=
+
+Name: sapjco3/com/sap/tc/logging/tools/lv/CmdOptionPrefixes.class
+SHA1-Digest: 206HUowfTEYlA997WhcqqmJ4A+w=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToCFactory$ShortcutDb2Uc.class
+SHA1-Digest: SQ7X0xD+rVPPA4XAMsZcJ/R4Ny4=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$DenyTxHandler.class
+SHA1-Digest: ldMg5DExHULuj2dAXM6GX0Sme6I=
+
+Name: sapjco3/com/sap/tc/logging/PropertiesConfigurator$PCTokenizer.class
+SHA1-Digest: xi+soURmbFALjipZIMJ6zjR/K1o=
+
+Name: sapjco3/com/sap/conn/rfc/api/IRfcTable.class
+SHA1-Digest: 1OR+hEvrqhboLoAmavwyTf6UQYE=
+
+Name: sapjco3/com/sap/conn/jco/util/Codecs$Hex.class
+SHA1-Digest: pnEBIkZ4DVmLq8PEnNpDkOBQf8A=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertSystemCpToC7bOnlyTImpl.class
+SHA1-Digest: AEh/W/KkE5ZLAwmEdWZvmMblQIg=
+
+Name: sapjco3/com/sap/conn/jco/ext/JCoSessionReference.class
+SHA1-Digest: CExRNCKljxp0E1bNJyQSzGIFGlY=
+
+Name: sapjco3/com/sap/conn/jco/rt/RunnableStarter.class
+SHA1-Digest: xTyuvX1hj6VbfZzEvxWypDrIe9M=
+
+Name: sapjco3/com/sap/conn/jco/rt/DefaultServerWorker$CallbackHandlerImpl.clas
+ s
+SHA1-Digest: dvrv7qCWy7WtLhJrB6X4MImwmKI=
+
+Name: sapjco3/com/sap/conn/rfc/engine/AbSysInfo.class
+SHA1-Digest: ym5I68tTpB7iCPcjG1bQaWK25r0=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapRepository$TurboDDICHelper.class
+SHA1-Digest: uhNeEaJPOWXMeEg0tFkxjFNJIS4=
+
+Name: sapjco3/com/sap/conn/jco/rt/AbapExceptionModel.class
+SHA1-Digest: 7mjYQq4BukCWwy/Db+nUeSvRaI4=
+
+Name: sapjco3/com/sap/conn/jco/rt/ServerConnection.class
+SHA1-Digest: nZlGyo+G9bKBW9YJKmgt/mbrZrg=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/ClassCacheIterator.class
+SHA1-Digest: eKVd+nwWm3rS03CFjqL9nt2p6U4=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertXToCFactory$ShortcutBase.class
+SHA1-Digest: QNAEmZQMGASLClION3r30XbXnLg=
+
+Name: sapjco3/com/sap/tc/logging/Formatter.class
+SHA1-Digest: 2nulp3PFnUuGWwpt5OldYLdlxak=
+
+Name: sapjco3/com/sap/conn/jco/util/CounterReference.class
+SHA1-Digest: 4bBv1Vc5lQOsxGpX9sAr3SSDdz8=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonParser.class
+SHA1-Digest: h1QUioIHyT97yVYc8SmvE6uVbns=
+
+Name: sapjco3/com/sap/tc/logging/exceptions/UnsupportedFormatException.class
+SHA1-Digest: Q0Kr5+FIomjlsm6PWFcjmYjmXrw=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/Field.class
+SHA1-Digest: 6U3r9Lupf+7onYM+hu1m7SOGWmQ=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertBase.class
+SHA1-Digest: KhXJGdaV0blcR3klmNGjAgP0i2A=
+
+Name: sapjco3/com/sap/i18n/cp/ConverterJNITImpl.class
+SHA1-Digest: +Ys3hbFrp5tAoFWAwfD/Zy4nzkA=
+
+Name: sapjco3/com/sap/conn/rfc/engine/RfcGetName.class
+SHA1-Digest: OLkxVV/SvVwRN4g5RQZ5Kl8hcRU=
+
+Name: sapjco3/com/sap/conn/jco/rt/BasXMLWriter$Reference.class
+SHA1-Digest: HXR/wrP24PCcAClMRFGEk9F+BMk=
+
+Name: sapjco3/com/sap/i18n/cp/CheckCharsetOfString.class
+SHA1-Digest: cPjcY+OQH2mu+vMJMCHnztUHA5g=
+
+Name: sapjco3/com/sap/conn/rfc/engine/DefaultRfcTraceWriter$1.class
+SHA1-Digest: y6s+fqYZamxwsHVVRPBsczq3icc=
+
+Name: sapjco3/com/sap/conn/jco/rt/Parameter.class
+SHA1-Digest: 7SmLA7sURmhClWQRNIMamNgtGTI=
+
+Name: sapjco3/com/sap/tc/logging/perf/PerfTracing.class
+SHA1-Digest: gI7DeGUokeJXRRh9CFrAD1NnZNE=
+
+Name: sapjco3/com/sap/tc/logging/GroupFactory.class
+SHA1-Digest: kTupVKJDIvbDUiAVjr4qoOpPTLI=
+
+Name: sapjco3/com/sap/conn/rfc/data/ARFCSSTATE.class
+SHA1-Digest: 4bcU+HaYpwPVf5a/6FOefEJpozE=
+
+Name: sapjco3/com/sap/conn/jco/util/Utf8ByteToCharConverter.class
+SHA1-Digest: NeG5bOm56HQUXnj3EZaSHPWUrSs=
+
+Name: sapjco3/com/sap/conn/jco/rt/json/JSonWriter.class
+SHA1-Digest: z8XIICW6hLrw+G1e1W1GpYFsjKA=
+
+Name: sapjco3/com/sap/i18n/cp/ConvertLE2Uc.class
+SHA1-Digest: dJEt7ju4TDSMYgmnRVEkBIKZBFg=
+
+Name: sapjco3/com/sap/tc/logging/HelperLib.class
+SHA1-Digest: LcRbSFhUEhsVwqZjSFME8Gh4j80=
+
+Name: sapjco3/com/sap/conn/jco/rt/AutoJobRunner.class
+SHA1-Digest: i6fFAJXoONXy07Ym0HOdQRvnntI=
+
+Name: sapjco3/com/sap/conn/jco/util/CharacterEncoding$1.class
+SHA1-Digest: 3TEJo+ZrOKz0XraoWQx5crb0kgk=
+

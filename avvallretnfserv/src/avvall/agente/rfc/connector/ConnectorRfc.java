@@ -197,15 +197,17 @@ public class ConnectorRfc {
 
     public static void main(String[] args) throws IOException, InterruptedException, JCoException {
 
-    	String nomeArquivoLog = "" + new SimpleDateFormat("YYYYMMDD_HHmmss").format(new Date()) + ".log";
+    	String nomeArquivoLog = "" + new SimpleDateFormat("YYYYMMdd_HHmmss").format(new Date()) + ".log";
     	FileHandler arquivoLogHandler = new FileHandler (nomeArquivoLog);
     	LOGGER.addHandler(arquivoLogHandler);
     	LOGGER.log(Level.INFO, "Iniciando Consulta, Recuperando Registros em getServNf...");
     	RetornoGetServNfApi result = getServNf();
+    	
+    	boolean isImportar = true;
 
     	if (result == null || result.getItems() == null || result.getItems().isEmpty()) {
-        	LOGGER.log(Level.INFO, "O serviço getServNf não retornou nenhum registro e por isso nenhum dado será importado! Operação finalizada!");
-        	return;
+        	LOGGER.log(Level.INFO, "O serviço getServNf retornou ZERO registros! Nenhum registro importado!");
+        	isImportar = false;
     	} else {
         	LOGGER.log(Level.INFO, "Retornou " + result.getItems().size() + " registros...");
     	}
@@ -233,6 +235,7 @@ public class ConnectorRfc {
 
             LOGGER.log(Level.INFO, "Conectando destination via " + DESTINATION_NAME + ".jcoDestination...");
             destination = JCoDestinationManager.getDestination(DESTINATION_NAME);
+            LOGGER.log(Level.INFO, "Destination foi instanciado!");
             // LOGGER.log(Level.INFO, "Atributos: " + destination.getAttributes());
 
             // LOGGER.log(Level.INFO, "Executando destination.ping()...");
@@ -246,8 +249,8 @@ public class ConnectorRfc {
             System.out.println("exception "+ex.toString());
         }
 
-        // Se chegou ateh aqui eh porque conectou no SAP
-    	if (result != null && result.getItems() != null && !result.getItems().isEmpty()) {
+        // Se chegou ateh aqui eh porque conectou no SAP e possui registros para importar
+    	if (isImportar && result != null && result.getItems() != null && !result.getItems().isEmpty()) {
 	        try {
 	        	LOGGER.log(Level.INFO, "Instanciando function Z_RFC_NF_SERVICO_ATU_REF...");
 	            function = destination.getRepository().getFunction("Z_RFC_NF_SERVICO_ATU_REF");
